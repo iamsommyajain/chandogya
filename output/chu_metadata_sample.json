@@ -1,0 +1,111 @@
+[
+  {
+    "chunk_id": "CHU.1.1.1",
+    "sanskrit": "om ity etad akṣaram udgītham upāsīta | om iti hy udgāyati | tasyopavyākhyānam",
+    "commentary": "ityupodghātabhāṣyam- omityetadakṣaramudgīthamupāsīta / omityetadakṣaraṃ paramātmano 'bhidhānaṃ nediṣṭham / tasminhi prayujyamāne sa prasīdati priyanāmagrahaṇa iva lokaḥ / tadihetiparaṃ prayuktamabhidhāyakatvādvyāvartitaṃ śabdasvarūpamātraṃ pratīyate / tathā cārcādivatparasyā'tmanaḥ pratīkaṃ sampadyate / evaṃ nāmatvena pratīkatvena ca paramātmopāsanasādhanaṃ śreṣṭhamiti sarvavedānteṣvagatam / japakarmasvādhyāyādyanteṣu ca bahuśaḥ prayogātprasiddhamasya śraiṣṭhyam / atastadetakṣaraṃ varṇātmakamudgīthabhaktyavayavatvādudgīthaśabdavācyamupāsīta / karmāṅgāvayavabhūta oṅkāre paramātmapratīke dṛḍhāmaikāgryalakṣaṇāṃ matiṃ santanuyāt / svayameva śrutiroṅkārasyodgīthaśabdavācyatve hetumāha-omiti hyudgāyati / omityārabhya hi yasmādudgāyatyata udgītha oṅkāra ityarthaḥ / tasyopavyākhyānaṃ tasyākṣarasyopavyākhyānamevamupāsanamevaṃvibhūtyevaṃphalamityādikathanamupavyākhyānam / pravartata iti vākyaśeṣaḥ //",
+    "translation": "One should meditate on the syllable Om which is called the Udgtha. The explanation of Om follows.",
+    "concept_tags": [
+      "om_symbolism",
+      "udgitha_meditation",
+      "brahman_as_sound",
+      "pratika_worship"
+    ],
+    "claim_candidates": [
+      "Om is the direct identifier of Paramatman.",
+      "Om, as a syllable, functions as a symbol (pratika) for Paramatman.",
+      "Meditation on Om as Udgitha is a means to realize Paramatman.",
+      "The efficacy of Om in worship is established across Vedanta."
+    ],
+    "objection_hooks": [
+      "Is the symbolic identification of Om with Brahman sufficient for ultimate realization?",
+      "Does treating Om as a mere symbol devalue its inherent nature as sound?",
+      "What are the potential limitations of identifying a specific sound with the unmanifest Brahman?"
+    ],
+    "philosophical_moves": [
+      "symbolic_identification",
+      "identity_claim",
+      "ritual_to_metaphysics"
+    ],
+    "dialectical_potential": [
+      "symbol_vs_reality",
+      "means_vs_end",
+      "metaphysical_identity",
+      "epistemic_validity_of_sound"
+    ],
+    "depth_score": 3
+  },
+  {
+    "chunk_id": "CHU.1.1.2",
+    "sanskrit": "eṣāṃ bhūtānāṃ pṛthivī rasaḥ | pṛthivyā āpo rasaḥ | apām oṣadhayo rasaḥ | oṣadhīnāṃ puruṣo rasaḥ | puruṣasya vāg rasaḥ | vāca ṛg rasaḥ | ṛcaḥ sāma rasaḥ | sāmna udgītho rasaḥ",
+    "commentary": "eṣāṃ carācarāṇāṃ bhūtānāṃ pṛthivī raso gatiḥ parāyaṇamavaṣṭambhaḥ / pṛthivyā āpo raso 'psu hyotā ca protā ca pṛthivyatastā rasaḥ pṛthivyāḥ / apāmoṣadhayo raso 'ppariṇāmatvādoṣadhīnām / tāsāṃ puruṣo raso 'nnapariṇāmatvāt puruṣasya / tasyāpi puruṣasya vāgrasaḥ / puruṣāvayavānāṃ hi vāksāriṣṭhā / ato vākpuruṣasya rasa ucyate / tasyā api vāca ṛgrasaḥ sāratarā / ṛcaḥ sāma rasaḥ sārataram / tasyāpi sāmna udgīthaḥ prakṛtatvādoṅkāraḥ sārataraḥ //",
+    "translation": "The essence of all these beings is the earth. The essence of the earth is water. The essence of water is vegetation. The essence of vegetation is man. The essence of man is speech. The essence of speech is Rik. The essence of Rik is Saman. The essence of Saman is Udgtha.",
+    "concept_tags": [
+      "hierarchy_of_essence",
+      "om_symbolism",
+      "sound_metaphysics",
+      "ritual_to_knowledge_transition"
+    ],
+    "claim_candidates": [
+      "Earth is the essence of all beings.",
+      "Water is the essence of earth.",
+      "Speech is the essence of man.",
+      "Rik is the essence of speech.",
+      "Saman is the essence of Rik.",
+      "Udgitha is the essence of Saman."
+    ],
+    "objection_hooks": [
+      "Is this hierarchical reduction exhaustive?",
+      "What is the ontological status of 'essence' in this sequence?",
+      "Is the transition from man to speech a metaphysical or functional claim?",
+      "Can the ritualistic (Rik, Saman, Udgitha) be considered the 'essence' of speech in a metaphysical sense?"
+    ],
+    "philosophical_moves": [
+      "hierarchy_of_essence",
+      "symbolic_identification",
+      "ritual_to_metaphysics"
+    ],
+    "dialectical_potential": [
+      "hierarchy_vs_holism",
+      "sound_as_ultimate_essence",
+      "ritual_performance_vs_yogic_realization"
+    ],
+    "depth_score": 4
+  },
+  {
+    "chunk_id": "CHU.1.1.3",
+    "sanskrit": "sa eṣa rasānāṃ rasatamaḥ paramaḥ parārdhyo 'ṣṭamo yadudgīthaḥ",
+    "commentary": "evaṃ sa eṣa udgīthākhya oṅkāro bhūtādīnāmuttarottararasānāmatiśayena raso rasatamaḥ / paramaḥ paramātmapratīkatvāt / parārdhyor'dhaṃ sthānaṃ, paraṃ ca tadardhaṃ ca parārdhaṃ tadarhatīti parārdhyaḥ paramātmasthānārhaḥ paramātmavadupāsyatvādityabhiprāyaḥ / aṣṭamaḥ pṛthivyādirasasaṃkhyāyāṃ yadudgītho ya udgīthaḥ //",
+    "translation": "The syllable Om which is called Udgtha, is the quintessence (heart) of the essences, the supreme, deserving of the highest place and the eighth.",
+    "concept_tags": [
+      "om_symbolism",
+      "hierarchy_of_essence",
+      "sound_metaphysics",
+      "meditation_object"
+    ],
+    "claim_candidates": [
+      "Om is the quintessence of essences.",
+      "Om is supreme due to its identification with Brahman.",
+      "Om is worthy of the highest place because it is to be contemplated like Brahman.",
+      "Om represents the eighth in a series of essences."
+    ],
+    "objection_hooks": [
+      "How can a mere syllable possess the status of quintessence?",
+      "What justifies the hierarchical ordering of essences culminating in Om?",
+      "Is Om's supremacy inherent or derived from its symbolic function?",
+      "The 'eighth' position implies a quantitative, empirical series, contradicting Om's spiritual claim."
+    ],
+    "philosophical_moves": [
+      "hierarchy_of_essence",
+      "symbolic_identification",
+      "metaphysical_inference",
+      "meditative_value"
+    ],
+    "dialectical_potential": [
+      "symbol_vs_reality",
+      "hierarchy_justification",
+      "epistemic_validity_of_meditation",
+      "nature_of_sound_as_metaphysical_entity"
+    ],
+    "depth_score": 4
+  }
+]
