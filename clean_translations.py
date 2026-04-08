@@ -1,70 +1,96 @@
 import json
+import re
 
 INPUT_FILE = "final_corpus.json"
-OUTPUT_FILE = "final_corpus.json"
+OUTPUT_FILE = "cleaned_corpus.json"
 
 
 # -----------------------------
-# Utility: completeness score
+# RULE 1: Remove verse markers
 # -----------------------------
-def score(entry):
-    fields = ["sanskrit", "transliteration", "translation", "word_meaning", "commentary"]
-    return sum(1 for f in fields if entry.get(f, "").strip())
+def remove_verse_markers(text):
+    if not text:
+        return text
+    return re.sub(r"[|।॥]+\s*\d+\.\d+\.\d+\s*[|।॥]*", "", text)
 
 
 # -----------------------------
-# Utility: check empty entry
+# RULE 2: Normalize whitespace
 # -----------------------------
-def is_empty(entry):
-    return score(entry) == 0
+def normalize_whitespace(text):
+    if not text:
+        return text
+    text = re.sub(r"\s+", " ", text)  # collapse multiple spaces/newlines
+    return text.strip()
+
+def remove_translation_prefix(text):
+    if not text:
+        return text
+    # Removes patterns like "1. ", "23. ", etc. only at the beginning
+    return re.sub(r"^\d+\.\s*", "", text)
 
 
 # -----------------------------
-# Clean dataset
+# RULE 3: Fix punctuation spacing
 # -----------------------------
+def fix_punctuation_spacing(text):
+    if not text:
+        return text
+
+    # remove space BEFORE punctuation
+    text = re.sub(r"\s+,", ",", text)
+    text = re.sub(r"\s+;", ";", text)
+    text = re.sub(r"\s+:", ":", text)
+
+    # ensure space AFTER punctuation (optional but cleaner)
+    text = re.sub(r",(?=\S)", ", ", text)
+    text = re.sub(r";(?=\S)", "; ", text)
+    text = re.sub(r":(?=\S)", ": ", text)
+
+    return text
+
+
+# -----------------------------
+# APPLY CLEANING PIPELINE
+# -----------------------------
+def clean_text(text):
+    text = remove_verse_markers(text)
+    text = normalize_whitespace(text)
+    text = fix_punctuation_spacing(text)
+    return text
+
+
 def clean_dataset(data):
-    cleaned = {}
+    fields = ["sanskrit", "transliteration", "translation", "word_meaning", "commentary"]
 
-    for item in data:
-        vid = item["verse_id"]
+    for entry in data:
+        for field in fields:
+            if field in entry and entry[field]:
+                entry[field] = clean_text(entry[field])
 
-        # Skip completely empty entries
-        if is_empty(item):
-            continue
+        # Apply ONLY to translation
+        if "translation" in entry and entry["translation"]:
+            entry["translation"] = remove_translation_prefix(entry["translation"])
 
-        if vid not in cleaned:
-            cleaned[vid] = item
-        else:
-            # Keep the better (more complete) one
-            if score(item) > score(cleaned[vid]):
-                cleaned[vid] = item
-
-    return list(cleaned.values())
+    return data
 
 
 # -----------------------------
 # MAIN
 # -----------------------------
 def main():
+    print("Loading dataset...")
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    print(f"Original count: {len(data)}")
+    print("Cleaning dataset...")
+    cleaned_data = clean_dataset(data)
 
-    cleaned = clean_dataset(data)
-
-    print(f"Cleaned count: {len(cleaned)}")
-
-    # Sort properly
-    def sort_key(x):
-        return list(map(int, x["verse_id"].split(".")))
-
-    cleaned = sorted(cleaned, key=sort_key)
-
+    print("Saving cleaned dataset...")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(cleaned, f, indent=2, ensure_ascii=False)
+        json.dump(cleaned_data, f, indent=2, ensure_ascii=False)
 
-    print("✅ Cleaned file saved as chandogya_cleaned.json")
+    print("Done! Cleaned file saved as:", OUTPUT_FILE)
 
 
 if __name__ == "__main__":
