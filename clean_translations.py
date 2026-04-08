@@ -1,122 +1,70 @@
-import re
 import json
-import argparse
-import os
+
+INPUT_FILE = "final_corpus.json"
+OUTPUT_FILE = "final_corpus.json"
 
 
 # -----------------------------
-# STEP 1: PREPROCESS RAW TEXT
+# Utility: completeness score
 # -----------------------------
-def preprocess_translation_text(text):
-    """
-    Cleans raw PDF-pasted text.
-    """
-
-    # Remove multiple newlines → single space
-    text = re.sub(r"\n+", " ", text)
-
-    # Normalize spaces
-    text = re.sub(r"\s+", " ", text)
-
-    # Remove weird page headers (optional tweak if needed)
-    text = re.sub(r"Chandogya Upanishad.*?Math, Chennai", "", text, flags=re.IGNORECASE)
-
-    return text.strip()
+def score(entry):
+    fields = ["sanskrit", "transliteration", "translation", "word_meaning", "commentary"]
+    return sum(1 for f in fields if entry.get(f, "").strip())
 
 
 # -----------------------------
-# STEP 2: PARSE VERSES
+# Utility: check empty entry
 # -----------------------------
-def parse_translation(text):
-    """
-    Extracts verse-wise translations using verse markers like 1.1.1:
-    """
+def is_empty(entry):
+    return score(entry) == 0
 
-    text = preprocess_translation_text(text)
 
-    data = {}
+# -----------------------------
+# Clean dataset
+# -----------------------------
+def clean_dataset(data):
+    cleaned = {}
 
-    # Split using verse markers (keeps markers)
-    parts = re.split(r"(\d+\.\d+\.\d+:)", text)
+    for item in data:
+        vid = item["verse_id"]
 
-    for i in range(1, len(parts), 2):
-        marker = parts[i]
-        content = parts[i + 1] if i + 1 < len(parts) else ""
-
-        # Extract numbers
-        nums = re.findall(r"\d+", marker)
-
-        if len(nums) != 3:
+        # Skip completely empty entries
+        if is_empty(item):
             continue
 
-        a, k, v = nums
-        chunk_id = f"CHU.{a}.{k}.{v}"
+        if vid not in cleaned:
+            cleaned[vid] = item
+        else:
+            # Keep the better (more complete) one
+            if score(item) > score(cleaned[vid]):
+                cleaned[vid] = item
 
-        # Clean content
-        content = content.strip()
-
-        # Remove accidental next verse
-        content = re.sub(r"\d+\.\d+\.\d+:.*", "", content)
-
-        # Fix encoding artifacts (like Udg$tha)
-        content = content.replace("$", "")
-
-        # Remove trailing noise
-        content = re.sub(r"\s+", " ", content)
-
-        data[chunk_id] = content.strip()
-
-    return data
+    return list(cleaned.values())
 
 
 # -----------------------------
-# STEP 3: VALIDATION
-# -----------------------------
-def validate(data):
-    print("\n🔍 VALIDATION REPORT\n")
-
-    print(f"Total verses extracted: {len(data)}\n")
-
-    # Show first few entries
-    print("Sample output:\n")
-
-    for i, (k, v) in enumerate(data.items()):
-        print(f"{k} → {v[:100]}")
-        print("------")
-
-        if i == 9:
-            break
-
-
-# -----------------------------
-# STEP 4: MAIN
+# MAIN
 # -----------------------------
 def main():
-    parser = argparse.ArgumentParser(description="Clean and parse translation file")
-    parser.add_argument("--input", required=True, help="Path to translation text file")
-    parser.add_argument("--output", default="translation_data.json", help="Output JSON file")
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    args = parser.parse_args()
+    print(f"Original count: {len(data)}")
 
-    if not os.path.exists(args.input):
-        print(f"❌ File not found: {args.input}")
-        return
+    cleaned = clean_dataset(data)
 
-    # Read input
-    with open(args.input, "r", encoding="utf-8") as f:
-        raw_text = f.read()
+    print(f"Cleaned count: {len(cleaned)}")
 
-    # Parse
-    translation_data = parse_translation(raw_text)
+    # Sort properly
+    def sort_key(x):
+        return list(map(int, x["verse_id"].split(".")))
 
-    # Validate
-    validate(translation_data)
+    cleaned = sorted(cleaned, key=sort_key)
 
-    # Save
-    with open(args.output, "w", encoding="utf-8") as f:
-        json.dump(translation_data, f, indent=2, ensure_ascii=False)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(cleaned, f, indent=2, ensure_ascii=False)
 
-    print(f"\n✅ Saved cleaned translations to: {args.output}")
+    print("✅ Cleaned file saved as chandogya_cleaned.json")
 
 
 if __name__ == "__main__":

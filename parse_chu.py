@@ -1,157 +1,155 @@
+import requests
+from bs4 import BeautifulSoup
 import re
 import json
-import argparse
-import os
+
+URL = "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_chAndogyopaniSad-comm.htm"
 
 
 # -----------------------------
-# Utility: Clean text
+# STEP 1: FETCH PAGE
 # -----------------------------
-def clean_text(text):
-    if not text:
-        return ""
+def fetch_page(url):
+    headers = {"User-Agent": "Mozilla/5.0"}
+    res = requests.get(url, headers=headers)
 
-    text = text.strip()
+    if res.status_code != 200:
+        raise Exception("Failed to fetch webpage")
 
-    # Normalize whitespace
-    text = re.sub(r"\s+", " ", text)
+    # 🚨 CRITICAL FIX
+    return res.content.decode("utf-8", errors="ignore")
 
-    # Remove trailing markers like //1 // or ||...||
-    text = re.sub(r"//\d+\s*", "", text)
-    text = re.sub(r"\|\|.*?\|\|", "", text)
+def fix_encoding(text):
+    try:
+        return text.encode("latin1").decode("utf-8")
+    except:
+        return text
 
+# -----------------------------
+# STEP 2: EXTRACT RAW TEXT
+# -----------------------------
+def extract_text(html):
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Try <pre> first (some GRETIL pages use it)
+    pre = soup.find("pre")
+    if pre:
+        return pre.get_text("\n")
+
+    # Fallback: extract full visible text
+    body = soup.find("body")
+    if body:
+        return body.get_text("\n")
+
+    # Last fallback
+    return soup.get_text("\n")
+
+
+# -----------------------------
+# STEP 3: PREPROCESS
+# -----------------------------
+def preprocess(text):
+    text = re.sub(r"\r", "", text)
+    text = re.sub(r"\n{2,}", "\n", text)
     return text.strip()
 
 
 # -----------------------------
-# Extract Chunk ID
+# STEP 4: PARSE STRUCTURED DATA
 # -----------------------------
-def extract_id(block):
-    match = re.search(r"ChUp\s+(\d+),(\d+)\.(\d+)", block)
-    if match:
-        a, k, v = match.groups()
-        return f"CHU.{a}.{k}.{v}"
-    return None
+def parse_chandogya(text):
+    data = {}
 
-
-# -----------------------------
-# Extract Sanskrit Verse
-# -----------------------------
-def extract_sanskrit(block):
-    match = re.search(
-        r"\n(.*?)\|\|\s*ChUp_\d+,\d+\.\d+\s*\|\|",
-        block,
-        re.DOTALL
-    )
-    if match:
-        return clean_text(match.group(1))
-    return ""
-
-
-# -----------------------------
-# Extract Commentary (Bhāṣya)
-# -----------------------------
-def extract_commentary(block):
-    match = re.search(
-        r"ChUpBh_\d+,\d+\.\d+\s+(.*)",
-        block,
-        re.DOTALL
-    )
-    if match:
-        return clean_text(match.group(1))
-    return ""
-
-
-# -----------------------------
-# Main Parsing Function
-# -----------------------------
-def parse_text(raw_text):
-    chunks = []
-
-    blocks = raw_text.split("START")
+    # -----------------------------
+    # 1. Split into START blocks
+    # -----------------------------
+    blocks = re.split(r"START\s+ChUp\s+", text)
 
     for block in blocks:
-        block = block.strip()
-
-        if not block:
+        # Match chapter.section.verse
+        header = re.match(r"(\d+),(\d+)\.(\d+)", block)
+        if not header:
             continue
 
-        chunk_id = extract_id(block)
+        ch, sec, v = map(int, header.groups())
+        chunk_id = f"CHU.{ch}.{sec}.{v}"
 
-        if not chunk_id:
-            print("⚠️ Skipping block (no ID found)")
-            continue
+        # -----------------------------
+        # 2. Extract Sanskrit
+        # -----------------------------
+        sanskrit_match = re.search(
+            r"\d+,\d+\.\d+\s+(.*?)\|\|\s*ChUp_",
+            block,
+            re.DOTALL
+        )
 
-        sanskrit = extract_sanskrit(block)
-        commentary = extract_commentary(block)
+        sanskrit = ""
+        if sanskrit_match:
+            sanskrit = sanskrit_match.group(1)
 
-        chunk = {
+        # -----------------------------
+        # 3. Extract Commentary
+        # -----------------------------
+        commentary_match = re.search(
+            r"\|\|\s*ChUp_.*?\|\|\s*(.*)",
+            block,
+            re.DOTALL
+        )
+
+        commentary = ""
+        if commentary_match:
+            commentary = commentary_match.group(1)
+
+        # -----------------------------
+        # 4. Clean both
+        # -----------------------------
+        sanskrit = fix_encoding(sanskrit)
+        commentary = fix_encoding(commentary)
+
+        sanskrit = re.sub(r"\s+", " ", sanskrit.strip())
+        commentary = re.sub(r"\s+", " ", commentary.strip())
+
+        # Remove accidental leakage
+        commentary = re.sub(r"ChUpBh_.*", "", commentary)
+
+        data[chunk_id] = {
             "chunk_id": chunk_id,
             "sanskrit": sanskrit,
             "commentary": commentary
         }
 
-        chunks.append(chunk)
-
-    return chunks
-
-
-# -----------------------------
-# Validation
-# -----------------------------
-def validate(chunks):
-    print("\n🔍 Running Validation...\n")
-
-    ids = set()
-
-    for c in chunks:
-        cid = c["chunk_id"]
-
-        # Duplicate check
-        if cid in ids:
-            print(f"❌ Duplicate ID: {cid}")
-        ids.add(cid)
-
-        # Missing fields
-        if not c["sanskrit"]:
-            print(f"⚠️ Missing Sanskrit: {cid}")
-
-        if not c["commentary"]:
-            print(f"⚠️ Missing Commentary: {cid}")
-
-    print(f"\n✅ Total Chunks Parsed: {len(chunks)}\n")
+    # -----------------------------
+    # 5. Return sorted
+    # -----------------------------
+    return sorted(
+        data.values(),
+        key=lambda x: list(map(int, x["chunk_id"].split(".")[1:]))
+    )
 
 
 # -----------------------------
-# Main CLI
+# STEP 5: MAIN
 # -----------------------------
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--input", required=True, help="Path to input text file")
-    parser.add_argument("--output", default="chu_base_corpus.json")
+    print("Fetching page...")
+    html = fetch_page(URL)
 
-    args = parser.parse_args()
+    print("Extracting text...")
+    raw_text = extract_text(html)
 
-    # Check file exists
-    if not os.path.exists(args.input):
-        print(f"❌ File not found: {args.input}")
-        return
+    print("Preprocessing...")
+    clean_text = preprocess(raw_text)
 
-    # Read file
-    with open(args.input, "r", encoding="utf-8") as f:
-        raw_text = f.read()
+    print("Parsing structured verses...")
+    data = parse_chandogya(clean_text)
 
-    # Parse
-    chunks = parse_text(raw_text)
+    print(f"Total verses extracted: {len(data)}")
 
-    # Validate
-    validate(chunks)
+    # Save
+    with open("chu_base_corpus.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-    # Save JSON
-    with open(args.output, "w", encoding="utf-8") as f:
-        json.dump(chunks, f, indent=2, ensure_ascii=False)
-
-    print(f"📁 Output saved to: {args.output}")
+    print("Saved to chu_base_corpus.json")
 
 
 if __name__ == "__main__":
