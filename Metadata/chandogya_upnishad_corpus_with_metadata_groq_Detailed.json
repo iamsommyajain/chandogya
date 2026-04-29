@@ -2885,5 +2885,2214 @@
         "linguistic_complexity": 0.55,
         "semantic_density": 0.75,
         "philosophical_depth": 0.8
+    },
+    {
+        "verse_id": "1.7.2",
+        "sanskrit": "चक्षुरेवर्गात्मा साम तदेतदेतस्यामृच्यध्यूढंसाम तस्मादृच्यध्यूढंसाम गीयते । चक्षुरेव सात्मामस्तत्साम",
+        "transliteration": "cakṣurevargātmā sāma tadetadetasyāmṛcyadhyūḍhaṃsāma tasmādṛcyadhyūḍhaṃsāma gīyate | cakṣureva sātmāmastatsāma",
+        "translation": "The eyes are like the Ṛg Veda, and the self [i.e., the form seen in the eyes] is like the Sāma, which is based on the Ṛk. This is why the Sāma is sung based on the Ṛk. The eyes are the sā, and the self [the form in the eyes] is the ama . The two together are Sāma.",
+        "word_meaning": "Cakṣuḥ eva ṛk, the eyes are like the Ṛg Veda; ātmā sāma, the self [as seen in the eyes] is the Sāma; tat etat sāma, this Sāma [called the ātmā]; etasyām ṛci adhyūḍham, is based on Ṛk [i.e., on the eyes]; tasmāt, this is why; ṛci adhyūḍham sāma gīyate, the Sāma is sung as based on the Ṛk; cakṣuḥ eva sā, the eyes are sā; ātmā amaḥ, the self [the form reflected in the eyes] is ama; tat sāma, that [if joined together] is Sāma.",
+        "commentary": "The ātmā, or self, here means the form which is reflected in the eyes. This is why the Upaniṣad says the eyes are the Ṛg Veda„ and the self is the Sāma Veda.",
+        "contextual_topics": [
+            "The Unitary World-Self, The Immanent Reality of All Things and Man"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman"
+        ],
+        "claim_candidates": [
+            "The eyes function as a living embodiment of the Ṛg Veda, serving as a scriptural source for perception.",
+            "The self, as perceived through the eyes, corresponds to the Sāma Veda, indicating that inner experience is analogous to a secondary Vedic layer built upon the primary.",
+            "Because the Sāma Veda is derived from the Ṛg Veda, the act of singing Sāma is fundamentally an expression of the underlying Rig Vedic principle.",
+            "The combination of the eye (Ṛg) and the self (Sāma) constitutes a unified Vedic reality, symbolized by the term Sāma.",
+            "The identification of sensory organs and inner self with Vedic texts suggests that scriptural knowledge is internalized rather than external."
+        ],
+        "objection_hooks": [
+            "The analogy between eyes and the Ṛg Veda may be metaphorical, but does it imply literal equivalence, or is it merely poetic?",
+            "If the self is equated with the Sāma Veda, how does this account for the multiplicity of selves beyond visual perception?",
+            "The claim that singing Sāma expresses the Rig Vedic principle assumes a hierarchical dependence that may not be doctrinally established; could Sāma be independent?",
+            "Asserting that eyes and self together form Sāma might conflate distinct categories (sensory organ vs. inner consciousness); does the text support such ontological merging?"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman"
+        ],
+        "philosophical_degree": "0.7",
+        "spiritual_degree": "0.8",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.8"
+    },
+    {
+        "verse_id": "1.7.3",
+        "sanskrit": "श्रोत्रमेवर्ङ्मनः साम तदेतदेतस्यामृच्यध्यूढंसाम तस्मादृच्यध्यूढंसाम गीयते । श्रोत्रमेव सा मनोऽमस्तत्साम",
+        "transliteration": "śrotramevarṅmanaḥ sāma tadetadetasyāmṛcyadhyūḍhaṃsāma tasmādṛcyadhyūḍhaṃsāma gīyate | śrotrameva sā mano'mastatsāma",
+        "translation": "The organ of hearing is the Ṛk, and the mind is Sāma . This Sāma [called the mind] is based on the Ṛk [called the organ of hearing]. This is why Sāma scholars sing songs based on the Ṛk. The organ of hearing is sā, and the mind is ama . Together they are Sāma.",
+        "word_meaning": "Śrotram eva ṛk, the organ of hearing is the Ṛg Veda; manaḥ sāma, the mind is the Sāma; tat etat sāma, this Sāma [called the mind]; etasyām ṛci adhyūḍham, is based on the Ṛk [the organ of hearing]; tasmāt, this is why; ṛci adhyūḍham sāma gīyate, the Sāma is sung as based on the Ṛk; śrotram eva sā, the organ of hearing is sā; manaḥ amaḥ, the mind is ama; tat sāma, that [if joined together] is Sāma.",
+        "commentary": "The mind is said to be the Sāma because it controls the organ of hearing.",
+        "contextual_topics": null,
+        "philosophical_domain": "psychology",
+        "sub_concepts": null,
+        "claim_candidates": [
+            "The mind is identified with the Sāma, indicating cognition is linked to sacred sound",
+            "The organ of hearing is identified with the Ṛk, implying auditory perception is constituted by the Rig Veda",
+            "Because the mind controls hearing, the Sāma (mind) is said to be based on the Ṛk (hearing organ)",
+            "Sāma scholars sing Sāma based on the Ṛk, suggesting ritual chanting is justified by the auditory faculty's primacy"
+        ],
+        "objection_hooks": [
+            "How can the mind be equated with a specific Vedic chant without reducing consciousness to mere sound",
+            "The identification of the organ of hearing with the Rig Veda appears metaphorical and raises ontological problems",
+            "If the mind controls hearing, why does the verse state that the mind is based on the hearing organ, seeming to reverse causality",
+            "The claim that Sāma scholars sing based on the Ṛk may reflect later interpretation rather than original doctrine"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": null,
+        "philosophical_degree": null,
+        "spiritual_degree": null,
+        "speaker_role": "Guru",
+        "addressee": null,
+        "address_scope": null,
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": null,
+        "semantic_density": null,
+        "philosophical_depth": null
+    },
+    {
+        "verse_id": "1.7.5",
+        "sanskrit": "अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क्तत्साम तदुक्थं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम",
+        "transliteration": "atha ya eṣo'ntarakṣiṇi puruṣo dṛśyate saivarktatsāma tadukthaṃ tadyajustadbrahma tasyaitasya tadeva rūpaṃ yadamuṣya rūpaṃ yāvamuṣya geṣṇau tau geṣṇau yannāma tannāma",
+        "translation": "The person seen in the eye is the Ṛk, the Sāma, the uktha [a part of the Sāma], and the Yajus . He is also the three Vedas . The person who is in the sun and the person who is in the eye are the same. The same two singers [i.e., the Ṛk and the Sāma] sing in praise of each of them, and they have the same names.",
+        "word_meaning": "Atha, now; yaḥ eṣaḥ puruṣaḥ, that person who; antarakṣiṇi, inside the eye; dṛśyate, is seen; saḥ, that person; eva ṛk, is the Ṛk; tat sāma, he is the Sāma; tat uktham, he is the uktha [a part of the Sāma]; tat yajuḥ, he is the Yajus [i.e., mantras ending with svāhā, svadhā, and vaṣaṭ]; tat brahma, he is Brahman [i.e., the three Vedas]; tasya etasya, of this person [seen in the eye]; tat eva rūpam, that same form; yat amuṣya rūpam, of the form of that person [in the sun, having golden hair, etc.]; amuṣya, of that one [in the sun]; yau geṣṇau, two singers [i.e., the Ṛk and the Sāma sing in his praise]; tau geṣṇau, the same two singers [sing in praise of that one]; yat nāma tat nāma, the name of this is the same as the name of that.",
+        "commentary": "The Lord who rules the solar region is seen also in the eye. That Lord stands for the Ṛk. He controls the organ of speech and other organs of the body, as well as the earth and other planets. They are all parts of him. The three Vedas—Ṛk, Sāma, and Yajus—are often referred to as Brahman, so Brahman and the Vedas are the same. Brahman includes everything. It is in the sun, in the human body, and in the planets. It is here referred to as the Lord called Hiraṇmaya, the Lord with a golden body, because he is luminous. The words uk and uktha, and also svāhā, svadhā, and vaṣat, are all used in different Vedas in praise of the same Lord who is in the sun ( ādhidaivika ) as well as in the eye ( ādhyātmika ).",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sole Reality of Brahman",
+            "Symbolical Representations of Brahman"
+        ],
+        "claim_candidates": [
+            "The individual seen in the eye is identical to the three Vedas which are themselves Brahman",
+            "Brahman as the three Vedas pervades both the solar realm and the human eye indicating its universal presence",
+            "The same two singers (Ṛk and Sāma) praise both the sun-person and the eye-person showing that their names and forms are the same",
+            "The designation Brahman functions as a symbolic representation of the luminous golden-bodied Lord present in all realms"
+        ],
+        "objection_hooks": [
+            "How can a finite individual seen in the eye be equated with the infinite Vedas without collapsing distinction between subject and text",
+            "Does the identification of Brahman with the Vedas risk reducing the transcendental reality to merely ritual formulas",
+            "The claim that the same singers praise both sun and eye may overlook contextual differences in the Vedic hymns and thus the equivalence may not be justified"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.8",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.6",
+        "semantic_density": "0.85",
+        "philosophical_depth": "0.9"
+    },
+    {
+        "verse_id": "1.7.6",
+        "sanskrit": "स एष ये चैतस्मादर्वाञ्चो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायन्त्येतं ते गायन्ति तस्मात्ते धनसनयः",
+        "transliteration": "sa eṣa ye caitasmādarvāñco lokāsteṣāṃ ceṣṭe manuṣyakāmānāṃ ceti tadya ime vīṇāyāṃ gāyantyetaṃ te gāyanti tasmātte dhanasanayaḥ",
+        "translation": "The person in the eye rules the world below him and also rules the desires of the human mind. Those who sing accompanied by the vīṇā, are, in fact, singing in his honour. This is why such musicians become wealthy.",
+        "word_meaning": "Saḥ eṣaḥ, the person [in the eye]; etasmāt arvāñcaḥ ye ca lokāḥ, those worlds below him; teṣām ca iṣṭe, rules over them; manuṣya -kāmānām ca, as well as all human desires; iti, this marks the limit; tat, therefore; ye ime, those people who; vīṇāyām gāyanti, sing with the vīṇā; te etam gāyanti, they in fact sing in his honour; tasmāt, therefore; te, they [the musicians]; dhanasanayaḥ, become wealthy.",
+        "commentary": "That person in the eye is the Lord of the world below and also of the minds of human beings. When people sing accompanied by the vīṇā, that music is dedicated to him. And because they sing in honour of him, they acquire much wealth.",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Atman as Unity",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "The person in the eye, identified as the Self, is the sovereign authority over both the external worlds and internal human desires",
+            "Musical performance accompanied by the vīṇā is an act of worship directed toward this sovereign Self",
+            "Musicians who sing in honor of the Self become wealthy, indicating a causal link between devotional art and material prosperity",
+            "The verse suggests that material success can serve as a reward for spiritual dedication, implying a doctrine of karmic reward tied to devotional acts"
+        ],
+        "objection_hooks": [
+            "How can material wealth be considered a reliable indicator of genuine spiritual devotion?",
+            "Does the verse equate the \"person in the eye\" with the ultimate Brahman, or is it a metaphor for a personal deity rather than the absolute Self?",
+            "Is the claim that musicians become wealthy a universal principle or merely a contextual cultural observation specific to the text’s historical setting?"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman",
+            "Karma"
+        ],
+        "philosophical_degree": "0.7",
+        "spiritual_degree": "0.6",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "collective",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.4",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.8"
+    },
+    {
+        "verse_id": "1.7.7",
+        "sanskrit": "अथ य एतदेवं विद्वान्साम गायत्युभौ स गायति सोऽमुनैव स एष चामुष्मात्पराञ्चो लोकास्तांश्चाप्नोति देवकामांश्च",
+        "transliteration": "atha ya etadevaṃ vidvānsāma gāyatyubhau sa gāyati so'munaiva sa eṣa cāmuṣmātparāñco lokāstāṃścāpnoti devakāmāṃśca",
+        "translation": "[This is what a worshipper achieves: ] He who knows the Truth mentioned above [i.e., the Truth about Āditya, the sun], sings the Sāma in honour of both Āditya and the person in the eye. He then becomes one with Āditya. Not only that, he also attains mastery of the planes above Āditya and attains everything the gods and goddesses wish for. [In other words, such a person becomes divine].",
+        "word_meaning": "Atha yaḥ, now he who; etat evam vidvān, knows this in this way; sāma gāyati, sings the Sāma; saḥ, he [the musician ]; ubhau, to both [to Āditya, the sun, and to the person in the eye]; gāyati, sings; saḥ, he [the musician]; amunā eva, as that [Āditya]; ye ca amuṣmāt, from that [Āditya]; parāñcaḥ, above; lokāḥ, the planes; tām devakāmān, the things the gods and goddesses wish for; ca, also; saḥ eṣaḥ, that musician; āpnoti, attains [i.e., he finds a place in the solar orb, and he becomes divine].",
+        "commentary": "When a person knows the real identity of the deity to whom he is singing the Sāma—that is, when he knows he is singing the Sāma in praise of both Āditya, the sun, and the deity in the eye—what does he gain? He becomes one with Āditya and becomes the master of the worlds above Āditya. He is also entitled to the things that the gods and goddesses desire. He, in fact, becomes divine.",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Unitary World-Self, The Immanent Reality of All Things and Man"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Atman as Unity"
+        ],
+        "claim_candidates": [
+            "Knowing the true identity of the deity one worships enables the worshipper to become identical with that deity",
+            "When Sāma is sung with correct knowledge, the worshipper gains mastery over realms above the deity",
+            "Unity with a deity confers entitlement to the desires of the gods and goddesses",
+            "Realization of the deity's identity through music transforms the worshipper into a divine being"
+        ],
+        "objection_hooks": [
+            "How can mere knowledge of a deity logically result in ontological identity with that deity",
+            "If the worshipper masters realms above the deity, does this not contradict the deity's supreme status",
+            "Is the entitlement to divine wishes a literal reward or a metaphorical expression of spiritual fulfillment"
+        ],
+        "sentiment": [
+            "trust",
+            "joy"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.85",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.6",
+        "semantic_density": "0.85",
+        "philosophical_depth": "0.9"
+    },
+    {
+        "verse_id": "1.7.8",
+        "sanskrit": "अथानेनैव ये चैतस्मादर्वाञ्चो लोकास्तांश्चाप्नोति मनुष्यकामांश्च तस्मादु हैवंविदुद्गाता ब्रूयात्",
+        "transliteration": "athānenaiva ye caitasmādarvāñco lokāstāṃścāpnoti manuṣyakāmāṃśca tasmādu haivaṃvidudgātā brūyāt",
+        "translation": "Now, [the same worshipper] also attains, by the grace of the Lord in the eye, all the worlds below that Lord. Again, he attains all that human beings may desire. This is why the singer will ask:",
+        "word_meaning": "Atha, now; anena eva, by this [i.e., by the grace of the Lord in the eye]; ye ca etasmāt arvāñcaḥ lokāḥ, those planes which are below [him—i.e., the person in the eye]; tām ca, those [planes] also; āpnoti manuṣyakāmān ca, he also attains things desired by human beings; tasmāt, this is why; u ha udgātā evamvit, the singer who knows this; brūyāt, will say.",
+        "commentary": "",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "Divine grace manifested through the eye enables the devotee to transcend lower realms and access all subordinate worlds",
+            "Human desires are fulfilled through divine grace, indicating desire can serve as a conduit to spiritual attainment",
+            "The eye functions symbolically as a medium through which the divine bestows liberation across multiple planes",
+            "The singer’s forthcoming question implies that verbal transmission of this knowledge is essential for aspirants"
+        ],
+        "objection_hooks": [
+            "If desire is typically binding, how can it serve as a conduit to attainment rather than an obstacle?",
+            "The claim that the eye conveys divine grace appears metaphorical; does it have ontological reality or is it merely poetic?",
+            "Advaita posits non‑duality; does the hierarchical language of worlds below the Lord conflict with the view that all is Brahman?",
+            "Relying on a singer’s question suggests external instruction is required, which may contradict the notion that self‑realization is direct and self‑efficacious"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.8",
+        "spiritual_degree": "0.85",
+        "speaker_role": "Narrator",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "metaphor",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.8",
+        "philosophical_depth": "0.85"
+    },
+    {
+        "verse_id": "1.7.9",
+        "sanskrit": "कं ते काममागायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्साम गायति साम गायति",
+        "transliteration": "kaṃ te kāmamāgāyānītyeṣa hyeva kāmāgānasyeṣṭe ya evaṃ vidvānsāma gāyati sāma gāyati",
+        "translation": "[A learned udgātā, who sings the Sāma, will ask the person for whose benefit he is singing: ] ‘What shall I ask for on your behalf through my songs?’ He says this [because he knows the Lord in the eye presides over the Sāma and is capable of granting whatever the person wants] and he sings the Sāma, he sings the Sāma.",
+        "word_meaning": "Kam, what; te, for yon; kāmam, desire; āgāyāni iti, shall I sing for; eṣaḥ hi eva, he is the person who; kāmāgānasya iṣṭe, influences the fulfilment of the desires as expressed through songs; yaḥ, the musician [udgātā]; evam, this; vidvān, having known; sāma gāyati sāma gāyati, he sings the Sāma, he sings the Sāma.",
+        "commentary": "The Lord in the eye controls everything—the earth and other worlds, those who live in them, and also the desires of those people. This is the purport of the verse.",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Unitary World-Self, The Immanent Reality of All Things and Man"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Symbolical Representations of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "The udgātā's inquiry implies that the divine presence within the eye can fulfill any desire expressed through the Sāma",
+            "The act of singing Sāma is presented as a means by which the Lord actualizes the wishes of the devotee",
+            "The verse suggests that the knowledge of the Lord's omnipotence resides in the learned singer, enabling him to act as an intermediary for desire fulfillment",
+            "The identification of the eye as the locus of the Lord indicates that inner perception is the site of divine power over material and spiritual realms",
+            "The practice of asking on behalf of another reflects a reciprocal relationship where the devotee's desire is mediated through sacred music"
+        ],
+        "objection_hooks": [
+            "How can a mere song, a sensory activity, effect the actual granting of desires; is this metaphorical rather than literal",
+            "The assertion that the eye contains the Lord may conflate inner consciousness with external deity; does the text support such identification",
+            "Claiming the singer's knowledge as sufficient for intermediation may overlook the necessity of the devotee's own effort; is the singer's role truly decisive",
+            "The idea that desires are fulfilled through divine control could conflict with the principle of individual karma; how does the verse reconcile this"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.7",
+        "spiritual_degree": "0.85",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "question",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.8",
+        "philosophical_depth": "0.85"
+    },
+    {
+        "verse_id": "1.8.1",
+        "sanskrit": "त्रयो होद्गीथे कुशला बभूवुः शिलकः शालावत्यश्चैकितायनो दाल्भ्यः प्रवाहणो जैवलिरिति ते होचुरुद्गीथे वै कुशलाः स्मो हन्तोद्गीथे कथां वदाम इति",
+        "transliteration": "trayo hodgīthe kuśalā babhūvuḥ śilakaḥ śālāvatyaścaikitāyano dālbhyaḥ pravāhaṇo jaivaliriti te hocurudgīthe vai kuśalāḥ smo hantodgīthe kathāṃ vadāma iti",
+        "translation": "In ancient times, these three—Śilaka, the son of Salāvat, Caikitāyana, the son of Cikitāyana of the Dalbha clan, and Pravāhaṇa, the son of Jīvala—were skilled in the art of the udgītha . They said: ‘We have mastered the art of the udgītha. If you so wish, we can discuss the udgītha’.",
+        "word_meaning": "Trayaḥ ha udgīthe kuśalāḥ bābhūvuḥ, in early days there were three sages skilled in the udgītha; śilakaḥ śālāvatyaḥ, Śilaka, the son of Śalāvat; caikitāyanaḥ dālbhyaḥ, Caikitāyana, the son of Cikitāyana, of the Dalbha clan; pravāhaṇaḥ jaivaliḥ, Pravāhaṇa, the son of Jīvala; iti te ha ūcuḥ, they declared; udgīthe vai kuśalāḥ smaḥ, we have mastered the art of the udgītha; hanta udgīthe kathām vadāmaḥ iti, if you so wish we can discuss the udgītha.",
+        "commentary": "Śilaka, Caikitāyana Dālbhyah, and Pravāhaṇa—these three scholars had studied the udgītha very well, and in an assembly of scholars, they offered to discuss the subject, if the others so desired. It was not that they were trying to show off their knowledge. They just wanted the others to know that they were prepared to speak on this subject if the other scholars present so wished.",
+        "contextual_topics": null,
+        "philosophical_domain": null,
+        "sub_concepts": null,
+        "claim_candidates": [
+            "The three scholars assert that they have mastered the udgītha",
+            "They declare willingness to discuss the udgītha if other scholars desire",
+            "The commentary interprets their intention as pedagogical rather than self‑aggrandizing",
+            "Mastery of the udgītha is presented as a recognized scholarly qualification"
+        ],
+        "objection_hooks": [
+            "How can an external observer verify the scholars’ claim of mastery without independent evidence",
+            "Willingness to discuss does not necessarily prove expertise in the subject",
+            "The commentary’s assessment of non‑showoff may itself be a rhetorical justification rather than an objective fact",
+            "The verse does not provide criteria for what constitutes ‘mastery’ of the udgītha"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [],
+        "philosophical_degree": "0.2",
+        "spiritual_degree": "0.1",
+        "speaker_role": "Guru",
+        "addressee": "peer",
+        "address_scope": "collective",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "assertion",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "pratyaksha",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.6",
+        "philosophical_depth": "0.2"
+    },
+    {
+        "verse_id": "1.8.2",
+        "sanskrit": "तथेति ह समुपविविशुः स ह प्रावहणो जैवलिरुवाच भगवन्तावग्रे वदतां ब्राह्मणयोर्वदतोर्वाचं श्रोष्यामीति",
+        "transliteration": "tatheti ha samupaviviśuḥ sa ha prāvahaṇo jaivaliruvāca bhagavantāvagre vadatāṃ brāhmaṇayorvadatorvācaṃ śroṣyāmīti",
+        "translation": "They said, ‘Let it be so, ’ and then sat down. Pravāhaṇa, the son of Jīvala, said: ‘You two may please begin the debate. I would like to listen to the debate between you two brāhmins’.",
+        "word_meaning": "Tathā iti, saying, ‘Let it be so’; samupaviviśuḥ, they sat down; saḥ pravāhaṇaḥ jaivaliḥ ha uvāca, Pravāhaṇa, the son of Jīvala, said; bhagavantau agre vadatām, you two respected ones may kindly start the discussion; vadatoḥ brāhmaṇayoḥ vācam śroṣyāmi iti, I will listen to the debate of you two brāhmins.",
+        "commentary": "The scholars agreed to the debate, and sat down. Lest this be construed as impertinence, Prince Pravāhaṇa said to the other two that he wanted to hear the two brāhmins debating. The fact that Pravāhaṇa addressed them as brāhmins, shows that he regarded himself as inferior, being a kṣatriya .",
+        "contextual_topics": [
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Subtle Body and Ethical Qualification"
+        ],
+        "claim_candidates": [
+            "The act of a Kshatriya addressing Brahmins as inferior demonstrates that social hierarchy is subordinate to spiritual authority.",
+            "The willingness of the Brahmins to debate only after being invited indicates that respectful invitation is prerequisite for philosophical discourse.",
+            "The phrase “I will listen to the debate” reflects the value placed on listening as a means of acquiring knowledge in Advaita tradition.",
+            "The scholars' agreement to sit down before debate shows that proper conduct precedes intellectual exchange.",
+            "The humility of Pravahana, a Kshatriya, suggests that spiritual wisdom is not limited by varna."
+        ],
+        "objection_hooks": [
+            "The claim that social hierarchy is subordinate to spiritual authority may be challenged by the fact that varna duties are prescribed in dharma, not overridden by spiritual status.",
+            "The assertion that respectful invitation is prerequisite for discourse could be questioned by examples of spontaneous debates in scriptures without formal invitation.",
+            "The idea that listening is a primary means of acquiring knowledge may be contested by the emphasis on direct realization over second‑hand hearing.",
+            "The claim that humility shows spiritual wisdom transcends varna could be doubted because humility may be a social courtesy rather than an indication of equal spiritual capacity."
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [],
+        "philosophical_degree": "0.4",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Kshatriya Teacher",
+        "addressee": "peer",
+        "address_scope": "collective",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "progression",
+        "argument_role": "premise",
+        "inference_type": "inductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.5"
+    },
+    {
+        "verse_id": "1.8.3",
+        "sanskrit": "स ह शिलकः शालावत्यश्चैकितायनं दाल्भ्यमुवाच हन्त त्वा पृच्छानीति पृच्छेति होवाच",
+        "transliteration": "sa ha śilakaḥ śālāvatyaścaikitāyanaṃ dālbhyamuvāca hanta tvā pṛcchānīti pṛccheti hovāca",
+        "translation": "Śalāvat’s son Śilaka said to the sage Caikitāyana Dālbhya, ‘If you permit, I would like to ask you a question.’ Dālbhya replied, ‘Yes, ask’.",
+        "word_meaning": "Saḥ śilakaḥ śālāvatyaḥ ha caikitāyanam dālbhyam uvāca, Śilaka, the son of Śalāvat, said to Caikitāyana Dālbhya; hanta tvā pṛcchāni iti, if you permit, I would like to ask you this question; pṛccha iti ha uvāca, yes, ask, [replied Dālbhya].",
+        "commentary": "",
+        "contextual_topics": null,
+        "philosophical_domain": "psychology",
+        "sub_concepts": null,
+        "claim_candidates": [
+            "A seeker must seek the teacher’s permission before posing a spiritual question",
+            "The teacher’s affirmative response indicates that knowledge is best transmitted through dialogue rather than monologue",
+            "Polite request to a sage reflects the ethical principle that respect is prerequisite for effective instruction",
+            "The exchange shows that the seeker acknowledges the teacher’s authority as essential for legitimate inquiry"
+        ],
+        "objection_hooks": [
+            "Is explicit permission necessary, or can a sincere seeker ask without prior consent",
+            "Does dialogue guarantee truth, or might the teacher’s approval bias the seeker’s understanding",
+            "Could emphasizing respect for authority discourage independent contemplation and direct experience",
+            "Is the teacher’s authority inherent, or is it socially constructed, thus questioning its necessity"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman"
+        ],
+        "philosophical_degree": "0.5",
+        "spiritual_degree": "0.4",
+        "speaker_role": "Shishya",
+        "addressee": "guru",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "question",
+        "discourse_relation": "progression",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.4",
+        "semantic_density": "0.5",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.8.4",
+        "sanskrit": "का साम्नो गतिरिति स्वर इति होवाच स्वरस्य का गतिरिति प्राण इति होवाच प्राणस्य का गतिरित्यन्नमिति होवाचान्नस्य का गतिरित्याप इति होवाच",
+        "transliteration": "kā sāmno gatiriti svara iti hovāca svarasya kā gatiriti prāṇa iti hovāca prāṇasya kā gatirityannamiti hovācānnasya kā gatirityāpa iti hovāca",
+        "translation": "Śilaka asked, ‘What is the support of Sāma ?’ ‘It is the voice, ’ replied Dālbhya . ‘What is the support of the voice?’ ‘The vital breath, ’ answered Dālbhya. ‘What is the support of the vital breath?’ asked Śilaka. Dālbhya replied, ‘Food.’ Then Śilaka asked, ‘What is the support of food?’ Dālbhya said, ‘Water’.",
+        "word_meaning": "Sāmnaḥ kā gatiḥ iti, [Śilaka asked, ] what is it that supports Sāma [i.e., the udgītha of the Sāma]; svaraḥ iti ha uvāca, [Dālbhya] replied, it is the voice; svarasya kā gatiḥ iti, what is the support of the voice; prāṇaḥ iti ha uvāca, [Dālbhya] said, prāṇa [the vital breath]; prāṇasya kā gatiḥ iti, what is the support of prāṇa [asked Śilaka]; annam iti ha uvāca, [Dālbhya] replied, it is food; annasya kā gatiḥ iti, what is the support of food; āpaḥ iti ha uvāca, [Dālbhya] replied, water.",
+        "commentary": "Sāma here means the udgītha, the chanting. Dālbhya was asked what supported the chanting, and he replied, ‘The voice.’ Just as a pot is supported by the material of which it is made, which is earth, similarly, the chanting is supported by the voice. But what supports the voice? The vital breath. And the vital breath is supported by food. Similarly, food is supported by water, because it is from water that food grows.",
+        "contextual_topics": [
+            "Being as the Source of All"
+        ],
+        "philosophical_domain": "cosmology",
+        "sub_concepts": [
+            "Organic and Inorganic Nature"
+        ],
+        "claim_candidates": [
+            "The chanting (Sāma) depends on the voice, indicating that sound is the immediate cause of musical expression",
+            "The voice is sustained by prāṇa (vital breath), suggesting breath is the substratum of speech",
+            "Prāṇa is supported by food, implying that nourishment is prerequisite for the life‑force",
+            "Food is dependent on water, indicating water as the fundamental material for sustenance",
+            "The hierarchical support chain shows that all manifested activities ultimately rest on basic natural elements"
+        ],
+        "objection_hooks": [
+            "The voice can be produced without current breath, for example by recorded sound, challenging the claim that breath is the sole support of speech",
+            "Food growth also requires minerals and sunlight, questioning the claim that water alone is the ultimate support of food",
+            "The chanting may involve instrumental accompaniment, not just voice, which disputes the claim that voice alone supports Sāma"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Prana",
+            "Sat"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.4",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "example",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.4",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.8.5",
+        "sanskrit": "अपां का गतिरित्यसौ लोक इति होवाचामुष्य लोकस्य का गतिरिति न स्वर्गं लोकमिति नयेदिति होवाच स्वर्गं वयं लोकं सामाभिसंस्थापयामः स्वर्गसंस्तावंहि सामेति",
+        "transliteration": "apāṃ kā gatirityasau loka iti hovācāmuṣya lokasya kā gatiriti na svargaṃ lokamiti nayediti hovāca svargaṃ vayaṃ lokaṃ sāmābhisaṃsthāpayāmaḥ svargasaṃstāvaṃhi sāmeti",
+        "translation": "[Śilaka: ] ‘What is the support of water?’ [ Dālbhya: ] ‘That world, heaven.’ [Śilaka: ] ‘What is the support of that world?’ [Dālbhya: ] ‘Don’t go beyond that heaven. We know Sāma is in heaven, and this is why Sāma is respected as heaven’.",
+        "word_meaning": "Apām kā gatiḥ iti, what is the support of water; asau lokaḥ, that world [i.e., heaven]; iti ha uvāca, said [Dālbhya]; amuṣya lokasya kā gatiḥ iti, what is the support of that heaven; svargam lokam na atinayet iti ha uvāca, one should not go beyond that heaven, replied [Dālbhya]; svargam lokam, in that heavenly world; vayam sāma abhisaṃsthāpayāmaḥ, we install Sāma; svargasaṃstāvam hi sāma iti, this Sāma is worshipped as heaven.",
+        "commentary": "The next question Śilaka asked was about the support of water. To this Dālbhya replied, ‘That world—that is, heaven.’ Rain is said to come from heaven, so that is why heaven is called the support. But what supports heaven? When Śilaka put this question, Dālbhya replied that the question was irrelevant. There is nothing beyond heaven. Heaven is the ultimate. It is the real resort of Sāma. And this is why we say that Sāma is in heaven and why the scriptures show the same respect to heaven as to Sāma.",
+        "contextual_topics": [
+            "The Unitary World-Self, The Immanent Reality of All Things and Man",
+            "The Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Symbolical Representations of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "The verse asserts that heaven is the ultimate support and cannot be transcended, implying it is the highest ontological reality",
+            "By equating Sāma with heaven, the text suggests that devotional worship of Sāma is synonymous with reverence for the ultimate reality",
+            "The question about the support of water answered with heaven indicates that natural phenomena are sustained by the same ultimate principle that underlies cosmic order",
+            "The dismissal of further inquiry into what supports heaven reflects a doctrinal stance that ultimate reality is beyond conceptual analysis"
+        ],
+        "objection_hooks": [
+            "One may argue that other Upanishadic passages describe Brahman as beyond even heaven, so identifying heaven as ultimate appears contradictory",
+            "The identification of Sāma with heaven could be symbolic rather than ontological, thus the claim that worship of Sāma equals worship of ultimate reality may overextend the text",
+            "The link between water’s support and heaven might be metaphorical, not implying a universal sustaining principle, so the claim may misinterpret poetic language",
+            "The dismissal of inquiry may be a pedagogical device rather than a doctrinal assertion, making the claim about ultimate reality being beyond analysis unwarranted"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman",
+            "Sat"
+        ],
+        "philosophical_degree": "0.85",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "answer",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.78",
+        "philosophical_depth": "0.88"
+    },
+    {
+        "verse_id": "1.8.6",
+        "sanskrit": "तं ह शिलकः शालावत्यश्चैकितायनं दाल्भ्यमुवाचाप्रतिष्ठितं वै किल ते दाल्भ्य साम यस्त्वेतर्हि ब्रूयान्मूर्धा ते विपतिष्यतीति मूर्धा ते विपतेदिति",
+        "transliteration": "taṃ ha śilakaḥ śālāvatyaścaikitāyanaṃ dālbhyamuvācāpratiṣṭhitaṃ vai kila te dālbhya sāma yastvetarhi brūyānmūrdhā te vipatiṣyatīti mūrdhā te vipatediti",
+        "translation": "Śilaka Śālāvatya said to Caikitāyana Dālbhya: ‘O Dālbhya, your Sāma is then without a base. If someone knowledgeable about Sāma would now say [that your statement is wrong, and if he curses you saying, ] “Your head will fall [if what you say turns out to be wrong], ” your head will really fall’.",
+        "word_meaning": "Tam ha śilakaḥ śālāvatyaḥ caikitāyanam dālbhyam uvāca, Śilaka Śālāvatya said to Caikitāyana Dālbhya; vai kila te dālbhya sāma, your Sāma is, O Dālbhya; apratiṣṭhitam, without a base; yaḥ tu etarhi brūyāt, if anyone says now; te mūrdhā vipatiṣyati iti, your head will fall [if your statement about Sāma is found to be wrong]; te mūrdhā vipatet iti, your head will surely fall.",
+        "commentary": "Śilaka said to Dālbhya that Sāma cannot have heaven as its support. He then quotes scriptures that what he says is true. He also adds that Dālbhya might be careful not to give the impression that he has any doubt about this. If he does, he will then risk being cursed by people who know the Sāma very well. They may curse him saying that his head will fall. Whether Dālbhya’s head will fall or not is a different matter. If you commit a mistake, you surely have to pay for it. The measure of your punishment, however, is decided by many factors.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman"
+        ],
+        "claim_candidates": [
+            "The correctness of a statement about Sāma depends on its scriptural foundation; a statement without a base is considered false",
+            "A knowledgeable critic can pronounce a curse that will be fulfilled if the criticized statement is indeed false",
+            "Errors in doctrinal or ritual speech entail real consequences, potentially including physical harm, as a form of karmic retribution",
+            "Expressing doubt about scriptural truth exposes one to censure from experts, indicating a social enforcement of doctrinal correctness",
+            "The ultimate outcome of a curse is not mechanically guaranteed but depends on multiple factors, suggesting consequences are not strictly deterministic"
+        ],
+        "objection_hooks": [
+            "The notion that a spoken curse can cause physical injury may be metaphorical rather than literal, challenging the claim of causal efficacy",
+            "The claim that lack of scriptural support automatically renders a statement false overlooks contextual or interpretive nuances in Vedic discourse",
+            "The idea that physical harm follows doctrinal error could be an exaggerated rhetorical device, not a literal principle of karma",
+            "The assertion that consequences depend on many factors appears inconsistent with the verse’s explicit statement that the head will surely fall"
+        ],
+        "sentiment": [
+            "trust",
+            "anger"
+        ],
+        "core_concepts": [
+            "Karma",
+            "Yajna",
+            "ethical_values"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.3",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "paradox",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.7"
+    },
+    {
+        "verse_id": "1.8.7",
+        "sanskrit": "हन्ताहमेतद्भगवतो वेदानीति विद्धीति होवाचामुष्य लोकस्य का गतिरित्ययं लोक इति होवाचास्य लोकस्य का गतिरिति न प्रतिष्ठां लोकमिति नयेदिति होवाच प्रतिष्ठां वयं लोकं सामाभिसंस्थापयामः प्रतिष्ठासंस्तावं हि सामेति",
+        "transliteration": "hantāhametadbhagavato vedānīti viddhīti hovācāmuṣya lokasya kā gatirityayaṃ loka iti hovācāsya lokasya kā gatiriti na pratiṣṭhāṃ lokamiti nayediti hovāca pratiṣṭhāṃ vayaṃ lokaṃ sāmābhisaṃsthāpayāmaḥ pratiṣṭhāsaṃstāvaṃ hi sāmeti",
+        "translation": "Dālbhya said, ‘Sir, if you permit, I would like to ask you about this.’ Śilaka replied, ‘Yes, ask.’ Dālbhya then asked, ‘What is the support of that heaven?’ Śilaka said, ‘This earth.’ ‘What supports this earth?’ asked Dālbhya. Śilaka replied: ‘Don’t think Sāma ’s base is beyond this earth. We think Sāma is based on this earth, and we respect it as so’.",
+        "word_meaning": "Hanta, if you permit; aham etat bhagavataḥ vedāni iti, I would like to learn this from you, revered sir [said Dālbhya]; viddhi iti ha uvāca, yes, learn from me, said [Śilaka]; amuṣya lokasya kā gatiḥ iti, what is the support of that world [Dālbhya asked]; ayam lokaḥ iti ha uvāca, this earth, said [Śilaka]; asya lokasya kā gatiḥ iti, what is the support of this earth [Dālbhya asked]; pratiṣṭhām lokam na atinayet iti ha uvāca, [in order to find the support of Sāma] don’t go beyond the earth, replied [Śilaka]; pratiṣṭhām lokam vayam sāma abhisaṃsthāpayāmaḥ, we see Sāma based on this earth; pratiṣṭhāsaṃstāvam hi sāma iti, Sāma is respected because it is based on this earth.",
+        "commentary": "Heaven is supported by the various Vedic rites performed on the earth, and this is why the earth is said here to be the support of heaven. To be more precise, however, the gods and goddesses in heaven depend upon what men and women on earth offer them through their Vedic rites. In this sense, the earth is the support of heaven. The earth is the support of everything, and it is also the base of the Sāma. This is why the earth is described as a kind of chariot ( rathantara ) in the Sāma Veda .",
+        "contextual_topics": [
+            "The Universal Self"
+        ],
+        "philosophical_domain": "cosmology",
+        "sub_concepts": [
+            "Brahman as Cosmological and Physical Principle"
+        ],
+        "claim_candidates": [
+            "The earth functions as the foundational support for the heavenly realms.",
+            "Vedic rites performed on earth are the means by which the gods in heaven receive sustenance.",
+            "The Sāma Veda is conceptually based upon the earth, implying that ritual knowledge is rooted in material reality.",
+            "The description of the earth as a chariot in the Sāma Veda suggests a symbolic representation of the world as a vehicle for spiritual progress."
+        ],
+        "objection_hooks": [
+            "How can a material entity like earth be said to \"support\" a non-material heaven without conflating physical and metaphysical categories?",
+            "If the gods depend on human rites, does this imply that divine power is contingent on human action, challenging the notion of an independent Brahman?",
+            "The description of Sāma as based on earth might be metaphorical rather than ontological; does this undermine the claim of a literal grounding?",
+            "Interpreting the earth as a chariot could be poetic; does this symbolic reading have doctrinal authority or is it merely literary?"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.8",
+        "spiritual_degree": "0.6",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.7"
+    },
+    {
+        "verse_id": "1.8.8",
+        "sanskrit": "तं ह प्रवाहणो जैवलिरुवाचान्तवद्वै किल ते शालावत्य साम यस्त्वेतर्हि ब्रूयान्मूर्धा ते विपतिष्यतीति मूर्धा ते विपतेदिति हन्ताहमेतद्भगवतो वेदानीति विद्धीति होवाच",
+        "transliteration": "taṃ ha pravāhaṇo jaivaliruvācāntavadvai kila te śālāvatya sāma yastvetarhi brūyānmūrdhā te vipatiṣyatīti mūrdhā te vipatediti hantāhametadbhagavato vedānīti viddhīti hovāca",
+        "translation": "Pravāhaṇa Jaivali said: ‘O Śālāvatya, your Sāma is not endless. If someone should now say that your head will fall off, it will fall off.’ Śilaka Śālāvatya then said, ‘O Lord, I want to learn from you [the truth about the Sāma].’ Jaivali replied, ‘Yes, learn from me’.",
+        "word_meaning": "Tam ha pravāhaṇaḥ jaivaliḥ uvāca, Pravāhaṇa Jaivali said to him; antavat vai kila te sāma śālāvatya, O Śālāvatya [Śilaka], your Sāma is not without an end; yaḥ tu, if anyone; etarhi, now; brūyāt, says; mūrdhā te vipatiṣyati iti, your head will fall; mūrdhā te vipatet, your head will fall off; hanta aham bhagavataḥ vadāni iti, [Śilaka said, ] if you please, O Lord, I would like to learn from you; viddhi iti ha uvāca, yes, learn [from me, Pravāhaṇa replied].",
+        "commentary": "",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "The guru warns that false predictions about a disciple's physical state will manifest as reality",
+            "The disciple acknowledges the guru's authority by requesting instruction, indicating that knowledge is transmitted through personal instruction",
+            "The statement that the disciple's Sāma is not endless suggests that even sacred practices have limits",
+            "The dialogue implies that the guru's word can determine the disciple's fate, reflecting the power of spoken truth in the tradition"
+        ],
+        "objection_hooks": [
+            "Does the text literally claim speech causes physical harm, or is this a metaphor for loss of reputation",
+            "Is the disciple's request for learning necessarily an acknowledgment of authority, or could it be a rhetorical device",
+            "The assertion about Sāma's finiteness may refer to a specific ritual context rather than a universal principle, limiting its philosophical scope",
+            "Attributing causal power to the guru's words may conflict with the Upanishadic view that ultimate reality is beyond verbal proclamation"
+        ],
+        "sentiment": [
+            "trust",
+            "anticipation"
+        ],
+        "core_concepts": [],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "negation",
+        "pramana": "anumana",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.4",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.9.1",
+        "sanskrit": "अस्य लोकस्य का गतिरित्याकाश इति होवाच सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यन्त आकाशं प्रत्यस्तं यन्त्याकाशो ह्येवैभ्यो ज्यायानकाशः परायणम्",
+        "transliteration": "asya lokasya kā gatirityākāśa iti hovāca sarvāṇi ha vā imāni bhūtānyākāśādeva samutpadyanta ākāśaṃ pratyastaṃ yantyākāśo hyevaibhyo jyāyānakāśaḥ parāyaṇam",
+        "translation": "Śilaka Śālāvatya asked Pravāhaṇa, ‘What is the end of this earth?’ Pravāhaṇa said: ‘Space, for everything that exists arises from space and also goes back into space. Space is superior to everything. Space is the highest goal’.",
+        "word_meaning": "Asya lokasya kā gatiḥ iti, [Śilaka Śālāvatya asked, ] what is the end of this earth; ākāśaḥ iti ha uvāca, [Pravāhaṇa] replied, space; sarvāṇi ha vai imāni bhūtānī, all these beings; ākāśāt eva samutpadyante, issue from space; ākāśani prati astam yanti, they disappear into space; ākāśaḥ hi eva ebhyaḥ jyāyān, Space is superior to these; ākāśaḥ parāyaṇam, space is the highest goal.",
+        "commentary": "Space is described here as the source of everything. It is the source as well as the end of everything. In short, it is Paramātman, the Cosmic Self. Because space is the biggest thing visible, it can rightly claim to be the symbol of the Paramātman. All the other elements (air, fire, water, and earth) come from space and go back to space. But the scriptures also say that the Cosmic Self is the source and the end of the elements—indeed, of everything.",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Universal Self",
+            "Being as the Source of All"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sole Reality of Brahman",
+            "Brahman as Cosmological and Physical Principle"
+        ],
+        "claim_candidates": [
+            "Space is the ultimate source from which all beings arise",
+            "Space is the ultimate destination into which all beings dissolve",
+            "Space, being both source and end, is identified with the Paramātman, the Cosmic Self",
+            "Space, as the greatest visible entity, serves as the appropriate symbol for the Paramātman"
+        ],
+        "objection_hooks": [
+            "How can space, a material expanse, be equated with the non‑dual Paramātman which is described as beyond all forms",
+            "Other Upanishadic passages prioritize the inner self over any external entity, so does this not contradict the claim that space is the highest goal",
+            "If all beings arise from and dissolve into space, does this imply that space itself is subject to change, contradicting its status as the immutable Brahman"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman",
+            "Atman"
+        ],
+        "philosophical_degree": "0.85",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.8",
+        "philosophical_depth": "0.85"
+    },
+    {
+        "verse_id": "1.9.2",
+        "sanskrit": "स एष परोवरीयानुद्गीथः स एषोऽनन्तः परोवरीयो हास्य भवति परोवरीयसो ह लोकाञ्जयति य एतदेवं विद्वान्परोवरीयांसमुद्गीथमुपास्ते",
+        "transliteration": "sa eṣa parovarīyānudgīthaḥ sa eṣo'nantaḥ parovarīyo hāsya bhavati parovarīyaso ha lokāñjayati ya etadevaṃ vidvānparovarīyāṃsamudgīthamupāste",
+        "translation": "Earlier, mention was made of the udgītha being the best as also endless. He who is aware of this and worships the udgītha as such keeps attaining higher and higher worlds, and he becomes increasingly a better individual.",
+        "word_meaning": "Saḥ udgīthaḥ, that udgītha; parovarīyān [ paraḥ + varīyān ], the best; eṣaḥ, the Paramātman [i.e., the Supreme Self, earlier referred to as endless]; saḥ eṣaḥ, the udgītha [which is also the Cosmic Self]; anantaḥ, [is] endless; yaḥ, the worshipper; evam, as mentioned earlier; vidvān, having known; etat, this; parovarīyāṃsam udgītham upāste, worships this udgītha knowing it as the best; parovarīyasaḥ lokān jayati, he attains increasingly higher and higher worlds; asya, the life of that worshipper; parovarīyaḥ ha bhavati, also becomes higher and higher.",
+        "commentary": "It is important to realize that the udgītha is the Paramātman itself. When we know this we attain the highest—both materially and spiritually.",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Unitary World-Self, The Immanent Reality of All Things and Man",
+            "The Progressive Worship of Brahman up to the Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "Recognizing the udgītha as the Paramātman constitutes knowledge of the ultimate reality",
+            "Worship of the udgītha, understood as the best and endless, leads to progressive attainment of higher worlds",
+            "The progressive improvement of the individual is a result of sustained worship of the udgītha",
+            "The udgītha, identified with the Cosmic Self, is both the object of worship and the means to material and spiritual highest attainment",
+            "The attribute parovarīyān applied to udgītha implies that no other entity surpasses it in spiritual efficacy"
+        ],
+        "objection_hooks": [
+            "How can worship of a concept guarantee material attainment of higher worlds given the doctrine of karma?",
+            "The identification of udgītha with Paramātman may be metaphorical; does it hold as literal identity?",
+            "If the udgītha is already the ultimate reality, why is further worship necessary for improvement?",
+            "On what basis is udgītha deemed superior to other deities or practices when described as the best?"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.85",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.6",
+        "semantic_density": "0.85",
+        "philosophical_depth": "0.9"
+    },
+    {
+        "verse_id": "1.9.3",
+        "sanskrit": "तं हैतमतिधन्वा शौनक उदरशाण्डिल्यायोक्त्वोवाच यावत्त एनं प्रजायामुद्गीथं वेदिष्यन्ते परोवरीयो हैभ्यस्तावदस्मिँल्लोके जीवनं भविष्यति",
+        "transliteration": "taṃ haitamatidhanvā śaunaka udaraśāṇḍilyāyoktvovāca yāvatta enaṃ prajāyāmudgīthaṃ vediṣyante parovarīyo haibhyastāvadasmim̐lloke jīvanaṃ bhaviṣyati",
+        "translation": "[In ancient times there was a sage named Atidhanvā, who was the son of Śunaka and who knew the science of udgītha very well.] Once when he was teaching this to his disciple Udaraśāṇḍilya, he declared: ‘So long as you and your family preserve this knowledge, the quality of life in the world of your family will be higher than that of average people’.",
+        "word_meaning": "Śaunakaḥ, the son of Śunaka; atidhanvā, Atidhanvā [the sage having that name]; tam, of that kind; etam, this [udgītha]; udaraśāṇḍilyāya, to Udaraśāṇḍilya [the disciple having that name]; uktvā, having taught; uvāca, he said; ha yāvat, as long as; te prajāyām, your progeny; enam udgītham vediṣyante, will know this udgītha; tāvat, so long; [tāsām prajān, the life of those progeny]; asmin loke, in this world; jīvanam ebhyaḥ parovarīyaḥ ha bhaviṣyati, will grow better and better in quality judged by the standard of ordinary people.",
+        "commentary": "This udgītha is an invaluable asset which can uplift people both materially and spiritually for generations.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "Preservation of the udgītha across generations causally ensures a higher quality of life for the family compared to ordinary people",
+            "The udgītha functions as a spiritual and material uplift, acting as a substitute for ritual sacrifices in achieving well‑being",
+            "Knowledge transmission is presented as a primary determinant of one’s destiny, implying that ethical conduct regarding knowledge yields superior worldly outcomes",
+            "The verse asserts that the benefits of the udgītha are guaranteed as long as the disciple and his progeny maintain it, indicating an unconditional promise"
+        ],
+        "objection_hooks": [
+            "The promised material improvement may depend on external socioeconomic conditions, not solely on knowledge preservation",
+            "Claiming the udgītha substitutes ritual sacrifices overlooks the traditional Vedic emphasis on yajña as essential for spiritual progress",
+            "The unconditional guarantee assumes flawless transmission, which is unrealistic given human error and loss of tradition",
+            "Equating preservation of a specific teaching with moral virtue may conflate knowledge with ethical conduct, which could be contested"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Jiva",
+            "Karma"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.7",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.9.4",
+        "sanskrit": "तथामुष्मिँल्लोके लोक इति स य एतमेवं विद्वानुपास्ते परोवरीय एव हास्यास्मिँल्लोके जीवनं भवति तथामुष्मिँल्लोके लोक इति लोके लोक इति",
+        "transliteration": "tathāmuṣmim̐lloke loka iti sa ya etamevaṃ vidvānupāste parovarīya eva hāsyāsmim̐lloke jīvanaṃ bhavati tathāmuṣmim̐lloke loka iti loke loka iti",
+        "translation": "As in this world, so also in the other world. He who knows the place of the udgītha and worships it accordingly enjoys the best in life in this world, and he enjoys the best in life in the other world also [after death].",
+        "word_meaning": "Tathā, in the same way; amuṣmin loke, in that other world; lokaḥ iti, the place; saḥ yaḥ, he who; etat evam vidvān upāste, knows this and worships [the udgītha] accordingly; parovarīyaḥ eva ha asya asmin loke jīvanam bhavati, his life in this world is the best possible; tathā amuṣmin loke lokaḥ iti loke lokaḥ iti, his life in the other world [i.e., his life after death] is likewise the best, his life in the other world is likewise.",
+        "commentary": "The sage Atidhanvā told his disciple Udaraśāṇḍilya about the benefits of worshipping udgītha. He said that the benefits were not only material, but also spiritual. The worshipper is benefitted in this life as well as in his life after death. But the question may be raised, is this still valid today? What was true in earlier times may not be true now. Śaṅkara dispels this doubt. He says that even now people are enjoying the same benefits of worshipping the udgītha (that is, of chanting the Sāma Veda )—especially that part which is addressed to the Supreme Being.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "eschatology",
+        "sub_concepts": [
+            "Ethical Theories of Transmigration"
+        ],
+        "claim_candidates": [
+            "Worship of the udgītha (Sama Veda) yields the highest quality of life in the present world",
+            "The same worship also guarantees the highest quality of life after death",
+            "Knowledge of the proper place of the udgītha is necessary to obtain these benefits",
+            "The principle as in this world, so in the other world applies universally to the results of righteous worship",
+            "The benefits of udgītha worship are both material and spiritual"
+        ],
+        "objection_hooks": [
+            "The claim that worship guarantees the best life after death assumes a fixed afterlife schema, which may not be universally accepted",
+            "The assertion that knowledge of the udgītha's place is necessary may be challenged as the verse could be metaphorical rather than literal",
+            "The idea that worship yields the highest quality of life in this world could be questioned given empirical evidence of varied outcomes for practitioners"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman",
+            "Karma"
+        ],
+        "philosophical_degree": "0.85",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.45",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.75"
+    },
+    {
+        "verse_id": "1.10.1",
+        "sanskrit": "मटचीहतेषु कुरुष्वाटिक्या सह जाययोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास",
+        "transliteration": "maṭacīhateṣu kuruṣvāṭikyā saha jāyayoṣastirha cākrāyaṇa ibhyagrāme pradrāṇaka uvāsa",
+        "translation": "Once the land of the Kurus was hit by a bad thunderstorm, and a young man living there named Uṣasti, the son of Cakra, was in great distress. He left home accompanied by his child-wife and moved to a prosperous village.",
+        "word_meaning": "Maṭacīhateṣu, destroyed [ hateṣu ] by a thunderstorm [ maṭacin ]; kuruṣu, in the land of the Kurus; ātikyā jāyayā saha, with his child-wife; uṣastiḥ, Uṣasti [a young man by that name]; cākrāyaṇaḥ, the son of Cakra; pradrāṇakaiḥ in great misery; ibhyagrāme [ibhyaḥ, prosperous (i.e., where people owned elephants) + grāme, in a village], in a prosperous village; uvāsa, lived.",
+        "commentary": "So far, much praise has been given to the udgītha, the purpose being to show the importance of the Sāma Veda . Now, prastāva and pratihāra are being introduced with the same object in view—that is, worship of the Sāma Veda. In order to introduce the subject, however, and to make it easy to understand, a story is given: At one time the land of the Kurus was hit by a very bad storm, which destroyed all the crops, and the country was in the grip of a famine. The son of Cakra, named Uṣasti, was starving and on the verge of death. He then moved with his child-wife to a prosperous village (that is, it was prosperous because people there owned elephants— ibha ). According to Śaṅkara, the word maṭacī means ‘fire from thunder.’ According to the Śabdakalpadruma, it refers to a species of small red birds, and according to Ānandagiri it means ‘locusts.’ Another meaning is ‘hail.’ ",
+        "contextual_topics": [
+            "Progressive Worship of Brahman up to the Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman",
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "The narrative illustrates that material calamities prompt seekers to turn toward higher worship such as the Sāma Veda",
+            "The story functions as a pedagogical device that substitutes ritual sacrifice with devotional worship of the Sāma Veda",
+            "The reference to a prosperous village where people own elephants symbolically represents abundance associated with divine favor",
+            "The multiple lexical meanings of maṭacī indicate that scriptural language is intentionally polysemic, allowing varied spiritual interpretations"
+        ],
+        "objection_hooks": [
+            "How can a story about famine be taken as evidence that calamities lead to worship rather than being merely a narrative device?",
+            "Does the story truly substitute ritual sacrifice, or does it simply illustrate a context for worship without replacing sacrificial rites?",
+            "Is the association of elephant ownership with prosperity a symbolic representation of divine favor or a literal description of material wealth?",
+            "Does the polysemy of maṭacī imply intentional doctrinal ambiguity, or is it merely a result of lexical variation across commentarial sources?"
+        ],
+        "sentiment": [
+            "trust",
+            "anticipation"
+        ],
+        "core_concepts": [
+            "Brahman",
+            "Atman"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "collective",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "inductive",
+        "figure_type": "metaphor",
+        "pramana": "shruti",
+        "pedagogical_mode": "narrative",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.10.2",
+        "sanskrit": "स हेभ्यं कुल्माषान्खादन्तं बिभिक्षे तं होवाच । नेतोऽन्ये विद्यन्ते यच्च ये म इम उपनिहिता इति",
+        "transliteration": "sa hebhyaṃ kulmāṣānkhādantaṃ bibhikṣe taṃ hovāca | neto'nye vidyante yacca ye ma ima upanihitā iti",
+        "translation": "Uṣasti saw an elephant-driver eating some pulses of poor quality, and he begged for a share of his food. The elephant-driver replied: ‘This food in my bowl is all I have to eat. Besides this, I have nothing. [What should I do?]’.",
+        "word_meaning": "Saḥ, he [Uṣasti]; kulmāṣān, bad food grains; khādantam, eating; ibhyam, an elephant[-driver]; bibhikṣe, begged; ha tam uvāca, that [elephant-driver] said to him; itaḥ, besides these [pulses]; na anye vidyante, nothing further exists; yat ye ca ime, that which [the pulses]; me, my; upanihitāḥ, thrown [into my eating bowl]; [ kim karomi, what should I do].",
+        "commentary": "The food itself was bad, and besides that, it was hardly enough for the elephant-driver, but there was nothing else he could give Uṣasti. By implication, he regretted his inability to help.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct",
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas",
+            "Ethical Theories of Transmigration"
+        ],
+        "claim_candidates": [
+            "Moral responsibility to aid others persists even when one possesses no material resources",
+            "The driver’s expressed regret demonstrates an innate ethical awareness independent of external reward",
+            "Ethical duty, as illustrated, is not contingent upon abundance but on the intention to give",
+            "Inability to provide assistance does not absolve the individual from ethical evaluation of their conduct"
+        ],
+        "objection_hooks": [
+            "If moral responsibility is independent of resources, how can accountability be fairly assigned to those who cannot act?",
+            "The assertion that ethical duty is independent of abundance may conflict with the principle that one must first secure one's own survival",
+            "Regret expressed by the driver could be a social convention rather than evidence of innate ethical awareness",
+            "The scenario may be context‑specific and not universally applicable to all ethical situations"
+        ],
+        "sentiment": [
+            "sadness"
+        ],
+        "core_concepts": [
+            "ethical_values",
+            "Karma"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.4",
+        "speaker_role": "Narrator",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "answer",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "pratyaksha",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.10.3",
+        "sanskrit": "एतेषां मे देहीति होवाच तानस्मै प्रददौ हन्तानुपानमित्युच्छिष्टं वै मे पीतंस्यादिति होवाच",
+        "transliteration": "eteṣāṃ me dehīti hovāca tānasmai pradadau hantānupānamityucchiṣṭaṃ vai me pītaṃsyāditi hovāca",
+        "translation": "Uṣasti said to the elephant-driver, ‘Please give me some [of the pulses].’ The driver then gave away the pulses and said, ‘Here is some water.’ [But Uṣasti declined it, saying, ] ‘That will amount to my drinking unclean water’.",
+        "word_meaning": "Ha uvāca, [Uṣasti] said; eteṣām, out of this; me dehi iti, give me [some]; tān, those [pulses]; asmai, to him [i.e., to Uṣasti]; pradadau, gave away; hanta, [the elephant-driver said] here is; anupānam iti, drinking water; iti ha uvāca, [Uṣasti] said; me ucchiṣṭam vai pītam syāt, [if I drink the water you are offering] I would be drinking unclean water [because someone else has drunk from it].",
+        "commentary": "Uṣasti must have been very hungry. Although the elephant-driver said he had no other food than what was in his bowl, Uṣasti begged for that anyway. The driver kindly obliged and then also offered him some water to drink. This, however, Uṣasti declined. He said he would then be drinking unclean ( ucchiṣṭa ) water—that is, water that someone else had already drunk from. But the driver raised the question: If Uṣasti could take the unclean (according to him) food, why could he not take the unclean water also?",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Subtle Body and Ethical Qualification",
+            "Organic and Inorganic Nature"
+        ],
+        "claim_candidates": [
+            "Personal notions of impurity can limit acceptance of hospitality",
+            "The driver’s question challenges the consistency of Uṣasti’s purity standards, implying uniform ethical judgment",
+            "The perception of impurity is socially constructed rather than inherent to the object",
+            "Uṣasti’s refusal to drink water indicates a prioritization of ritual purity over immediate physical need",
+            "The episode reflects a principle that sharing sustenance should not be hindered by concerns of prior consumption"
+        ],
+        "objection_hooks": [
+            "The claim that impurity is socially constructed may overlook scriptural injunctions that deem water previously drunk ritually impure",
+            "The driver’s question does not necessarily imply a demand for uniform ethical standards; it could be a rhetorical challenge without normative force",
+            "The refusal might be based on health concerns about contamination rather than ritual purity",
+            "The assertion that sharing should ignore impurity concerns assumes a universal ethic not explicitly endorsed by the text"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "ethical_values"
+        ],
+        "philosophical_degree": 0.6,
+        "spiritual_degree": 0.4,
+        "speaker_role": "Shishya",
+        "addressee": "peer",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "metaphor",
+        "pramana": "shruti",
+        "pedagogical_mode": "narrative",
+        "linguistic_complexity": 0.55,
+        "semantic_density": 0.7,
+        "philosophical_depth": 0.65
+    },
+    {
+        "verse_id": "1.10.4",
+        "sanskrit": "न स्विदेतेऽप्युच्छिष्टा इति न वा अजीविष्यमिमानखादन्निति होवाच कामो म उदपानमिति",
+        "transliteration": "na svidete'pyucchiṣṭā iti na vā ajīviṣyamimānakhādanniti hovāca kāmo ma udapānamiti",
+        "translation": "The elephant-driver asked, ‘Aren’t the pulses also unclean?’ Uṣasti replied: ‘I would die if I did not have these grains to eat. As regards drinking water, [it is not that important]. I can get it when I like’. 3.4.28 of the Brahma Sūtras .",
+        "word_meaning": "Svit ete api na ucchiṣṭāḥ iti, [the driver said, by the same token] aren’t these [pulses] also unclean; ha uvāca, [Uṣasti] replied; imān, these [pulses]; akhādan, [if I] do not eat; na vai ajīviṣyam iti, I will not survive; udapānam, drinking water [on the other hand]; me kāmaḥ iti, is left to me.",
+        "commentary": "Normally a person should not eat or drink, anything unclean ( ucchiṣṭa )—that is, something which someone else has already eaten or drunk a part of. But when it is a question of survival, the scriptures condone such eating or drinking. Uṣasti was aware of the injunctions of the scriptures in this respect, and he knew they would permit his eating the unclean pulses, but not his drinking the unclean water. Clean water was easily available, so he would not have died if he refrained from drinking it. The scriptures take much pains to point out when eating or drinking unclean things is permissible. In this connection, the reader’s attention is drawn to sūtra",
+        "contextual_topics": [
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "Survival necessity can override ritual purity injunctions",
+            "Scriptural authority permits consumption of unclean food when life is at stake",
+            "Drinking unclean water is not permitted even for survival if clean water is available",
+            "The hierarchy of duties places preservation of life above purity norms"
+        ],
+        "objection_hooks": [
+            "How can one determine when survival truly necessitates breaking purity rules",
+            "Does allowing unclean food undermine the absolute nature of ritual law",
+            "Why is water treated differently from food if both are essential for life",
+            "Could this exception be misused to justify broader impurity"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "ethical_values"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.3",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "answer",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.7"
+    },
+    {
+        "verse_id": "1.10.5",
+        "sanskrit": "स ह खादित्वातिशेषाञ्जायाया आजहार साग्र एव सुभिक्षा बभूव तान्प्रतिगृह्य निदधौ",
+        "transliteration": "sa ha khāditvātiśeṣāñjāyāyā ājahāra sāgra eva subhikṣā babhūva tānpratigṛhya nidadhau",
+        "translation": "After eating some of the food, he [Uṣasti] brought back what was left for his wife. The wife, however, had meanwhile obtained good alms. She accepted the food [from her husband] and put it aside [for future use].",
+        "word_meaning": "Ha khāditvā, having eaten; atiśeṣān, whatever was left over; saḥ jāyāyai ājahāra, he [Uṣasti] brought for his wife; sā, she; agre eva subhikṣā babhūva, had already obtained good alms; tān, them [the pulses]; pratigṛhya, she accepted; nidadhau, [and] put them aside.",
+        "commentary": "",
+        "contextual_topics": [
+            "The Three Branches of Duty",
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas",
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "Sharing leftover food with one’s spouse is presented as a dharmic act of generosity",
+            "The wife’s independent acquisition of alms indicates that self‑sufficiency in provision is valued alongside mutual sharing",
+            "Accepting and setting aside food for future use reflects an ethic of prudent stewardship over material resources",
+            "The narrative treats household duties such as feeding family as integral to the practice of righteousness"
+        ],
+        "objection_hooks": [
+            "The described sharing may be merely a domestic routine and not necessarily a spiritual or dharmic act",
+            "The text does not explicitly praise the wife’s alms, so claiming it values self‑sufficiency may overinterpret the passage",
+            "Setting aside food could be a practical measure rather than a moral principle of stewardship",
+            "Upanishadic teachings prioritize transcendental knowledge, so emphasizing household chores as central to righteousness could be contested"
+        ],
+        "sentiment": [
+            "trust",
+            "joy"
+        ],
+        "core_concepts": [
+            "Karma",
+            "ethical_values"
+        ],
+        "philosophical_degree": "0.5",
+        "spiritual_degree": "0.4",
+        "speaker_role": "Narrator",
+        "addressee": "audience",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "example",
+        "argument_role": "example",
+        "inference_type": "experiential",
+        "figure_type": "enumeration",
+        "pramana": "shruti",
+        "pedagogical_mode": "narrative",
+        "linguistic_complexity": "0.4",
+        "semantic_density": "0.6",
+        "philosophical_depth": "0.5"
+    },
+    {
+        "verse_id": "1.10.6",
+        "sanskrit": "स ह प्रातः संजिहान उवाच यद्बतान्नस्य लभेमहि लभेमहि धनमात्रांराजासौ यक्ष्यते स मा सर्वैरार्त्विज्यैर्वृणीतेति",
+        "transliteration": "sa ha prātaḥ saṃjihāna uvāca yadbatānnasya labhemahi labhemahi dhanamātrāṃrājāsau yakṣyate sa mā sarvairārtvijyairvṛṇīteti",
+        "translation": "While leaving bed the next morning, Uṣasti said to his wife: ‘Oh, if only I could get something to eat, I could then earn some money. The king over there is going to perform a sacrifice, and very likely he would have entrusted to me all the work of a ṛtvik [a priest at a sacrifice]’.",
+        "word_meaning": "Saḥ, he [Uṣasti]; prātaḥ, in the morning; sañjihānaḥ, while getting up from bed; ha uvāca, said [to his wife]; yat bata, oh, if only; annasya labhemahi, I could get some food; labhemahi dhanamātrām, I could earn a little money; asau, over there; rājā, the king; yakṣyate, is performing a sacrifice; saḥ, he [the king]; mā, me; sarvaiḥ ārtvijyaiḥ, all the work of a ṛtvik [a priest who sings hymns or otherwise helps with the performance of a sacrifice]; vṛṇīta iti, would have appointed.",
+        "commentary": "Uṣasti was a highly qualified ṛtvik, and he hoped the king would appoint him to assist at the sacrifice he was going to perform. If that hope of his materialized, he would then be able to earn some money. The snag was, however, that he was too weak from hunger to do anything. If he could only get something to eat!",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas",
+            "Subtle Body and Ethical Qualification"
+        ],
+        "claim_candidates": [
+            "Material hunger impedes the performance of sacred duties",
+            "Hope for royal appointment reflects a belief that ritual service yields material reward",
+            "Desire for food precedes desire for wealth, indicating a hierarchy of needs",
+            "The king’s sacrifice creates occupational opportunities for qualified priests, linking social order to ritual performance"
+        ],
+        "objection_hooks": [
+            "One might argue that spiritual duty should transcend physical hunger, rendering the claim about hunger’s impediment irrelevant",
+            "The claim that material reward motivates ritual service could be challenged as undermining the purity of sacrificial intent",
+            "The hierarchy of needs is not explicitly stated in the verse, so asserting that food precedes wealth may overinterpret the text",
+            "Linking the king’s sacrifice to social order may impose a systemic reading not evident in the immediate context"
+        ],
+        "sentiment": [
+            "sadness"
+        ],
+        "core_concepts": [
+            "Yajna",
+            "Karma"
+        ],
+        "philosophical_degree": "0.4",
+        "spiritual_degree": "0.2",
+        "speaker_role": "Narrator",
+        "addressee": "peer",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "pratyaksha",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.4"
+    },
+    {
+        "verse_id": "1.10.7",
+        "sanskrit": "तं जायोवाच हन्त पत इम एव कुल्माषा इति तान्खादित्वामुं यज्ञं विततमेयाय",
+        "transliteration": "taṃ jāyovāca hanta pata ima eva kulmāṣā iti tānkhāditvāmuṃ yajñaṃ vitatameyāya",
+        "translation": "The wife said to him, ‘O dear husband, here are those pulses you gave me.’ Having eaten the pulses, Uṣasti left for the place where the sacrifice was being held [other priests having already started it].",
+        "word_meaning": "Jāyā tam uvāca, the wife said to him; hanta pate, O dear husband; ime eva kulmāṣāḥ iti, here are those pulses [you gave me]; tān, them [the pulses]; khāditvā, having eaten; amum vitatam yajñam, that ensuing sacrifice; eyāya, he went.",
+        "commentary": "",
+        "contextual_topics": [
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas"
+        ],
+        "claim_candidates": [
+            "The sequence shows that personal nourishment is attended to before participation in the communal sacrifice, implying a hierarchy of duties.",
+            "Consuming the pulses offered by the wife does not prevent the husband from joining the sacrifice, suggesting that domestic obligations are compatible with ritual duty.",
+            "The wife's affectionate address ‘O dear husband’ indicates that relational affection is integrated into the ritual context.",
+            "The narrative presents the sacrifice as occurring after the household task of sharing food, indicating that domestic duties are prerequisite to public rites."
+        ],
+        "objection_hooks": [
+            "The text only records a chronological order; it does not explicitly state that one duty is hierarchically superior to another.",
+            "The pulses might have been intended for the sacrifice; eating them could be seen as compromising the ritual offering.",
+            "The term ‘dear husband’ could be a conventional polite address without deeper philosophical significance.",
+            "The passage does not demonstrate that the sacrifice could not have begun earlier; the sequence may be narrative rather than prescriptive."
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Yajna"
+        ],
+        "philosophical_degree": "0.3",
+        "spiritual_degree": "0.2",
+        "speaker_role": "Narrator",
+        "addressee": "peer",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "progression",
+        "argument_role": "premise",
+        "inference_type": "inductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "narrative",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.6",
+        "philosophical_depth": "0.3"
+    },
+    {
+        "verse_id": "1.10.8",
+        "sanskrit": "तत्रोद्गातॄनास्तावे स्तोष्यमाणानुपोपविवेश स ह प्रस्तोतारमुवाच",
+        "transliteration": "tatrodgātṝnāstāve stoṣyamāṇānupopaviveśa sa ha prastotāramuvāca",
+        "translation": "There at the sacrifice, he found those [the udgātṛs ] who were singing the [ Sāma ] hymns and took a seat among them. Turning to the one who was singing the prastāva, he asked:",
+        "word_meaning": "Tatra, there [at the site of the sacrifice]; āstāve, at the place where hymns were being sung; udgātṛn stosyamāṇān, those who were singing the hymns; upa, near; upaviveśa, he sat; prastotāram, to him who was reciting the prastāva; saḥ ha uvāca, he said.",
+        "commentary": "Prastāva, pratihāra, and udgītha —these are some of the Sāma mantras recited during a sacrifice. One who recites the prastāva is called the prastotā, one who recites the pratihāra is called the pratihartā, and one who recites the udgītha is called the udgātā .",
+        "contextual_topics": [
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas"
+        ],
+        "claim_candidates": [
+            "Musical recitation of Sāma hymns constitutes an essential element of the Vedic sacrifice",
+            "Seating among the udgātṛs confers participatory equality within the sacrificial gathering",
+            "The designation of prastotā indicates a hierarchical role for the reciter of the prastāva in the ritual",
+            "The act of questioning the prastotā demonstrates that inquiry is incorporated into the sacrificial ceremony",
+            "The commentary’s classification of prastāva, pratihāra, and udgītha reflects an organized taxonomy of sacred chant categories"
+        ],
+        "objection_hooks": [
+            "The necessity of Sāma chanting for a valid sacrifice can be contested, as some Vedic rites are performed without musical elements",
+            "Sitting among singers may not equate to equal ritual status, since authority is determined by priestly function rather than proximity",
+            "The presence of a question does not prove that inquiry is a formal part of the sacrifice; it could be a pedagogical aside",
+            "The chant classifications might be later exegetical constructs rather than original Vedic distinctions"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Yajna"
+        ],
+        "philosophical_degree": "0.4",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Guru",
+        "addressee": "peer",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "question",
+        "discourse_relation": "example",
+        "argument_role": "example",
+        "inference_type": "inductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.6",
+        "philosophical_depth": "0.5"
+    },
+    {
+        "verse_id": "1.10.9",
+        "sanskrit": "प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता तां चेदविद्वान्प्रस्तोष्यसि मूर्धा ते विपतिष्यतीति",
+        "transliteration": "prastotaryā devatā prastāvamanvāyattā tāṃ cedavidvānprastoṣyasi mūrdhā te vipatiṣyatīti",
+        "translation": "‘O Prastotā, if you recite the prastāva without knowing anything about the god to whom this hymn relates, your head will fall’.",
+        "word_meaning": "Prastotaḥ, O Prastotā; yā devatā, that god who; prastāvam anvāyattā, underlies this prastāva hymn; tām avidvān, without knowing anything about him; cet, if; prastoṣyasi, you recite the prastāva; te, your; mūrdhā, head; vipatiṣyati iti, will fall.",
+        "commentary": "Here the question arises whether or not an ignorant person is permitted to recite the scriptures. According to Śaṅkara, he is permitted, but if he commits errors, he will be liable to punishment. It may not cost him his head, but he may go after death to the world of his ancestors, rather than to the world of the gods. But perhaps he would have gone there anyway because of his other errors. As to the falling of the head, the curse need not be taken literally.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct",
+            "The Individual Self Identical with the Infinite Brahman"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Ethical Theories of Transmigration"
+        ],
+        "claim_candidates": [
+            "Reciting a sacred hymn without proper knowledge of the deity constitutes a transgressive act that incurs karmic penalty",
+            "The severity of the penalty for ignorant recitation is metaphorical, indicating spiritual loss rather than literal physical harm",
+            "Knowledge of the deity is a prerequisite for legitimate participation in Vedic recitation",
+            "Ignorance in ritual performance can affect one’s posthumous destination, potentially leading to the ancestors’ realm rather than the gods’ realm",
+            "Even an ignorant person is permitted to recite, but must accept responsibility for errors"
+        ],
+        "objection_hooks": [
+            "The claim that ignorance incurs karmic penalty assumes a literal causal link between ritual error and afterlife outcomes, which may not be doctrinally established",
+            "Interpreting the curse as metaphor undermines the authority of the scriptural warning, raising the question of whether the text intends literal consequences",
+            "The requirement of knowledge before recitation could be challenged as elitist, contradicting the inclusive nature of Vedic transmission",
+            "The notion that an ignorant reciter is still permitted may conflict with the principle that proper understanding is essential for Vedic rites"
+        ],
+        "sentiment": [
+            "fear"
+        ],
+        "core_concepts": [
+            "Karma",
+            "Jiva",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.7",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "negation",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.8"
+    },
+    {
+        "verse_id": "1.10.10",
+        "sanskrit": "एवमेवोद्गातारमुवाचोद्गातर्या देवतोद्गीथमन्वायत्ता तां चेदविद्वानुद्गास्यसि मूर्धा ते विपतिष्यतीति",
+        "transliteration": "evamevodgātāramuvācodgātaryā devatodgīthamanvāyattā tāṃ cedavidvānudgāsyasi mūrdhā te vipatiṣyatīti",
+        "translation": "Next Uṣasti said the same thing to the person singing the udgītha: ‘O Udgātā, if you do not know anything about the god related to the udgītha and yet you sing the udgītha, your head will fall’.",
+        "word_meaning": "Evam eva udgātāram uvāca, he then said the same thing to the udgātā [who sings the udgītha]; udgātaḥ, O Udgātā; yā devatā udgītham anvāyattā, the god who is related to the udgītha; tām avidvān, without knowing anything about him; cet udgāsyasi, if you sing about him; te mūrdhā vipatiṣyati iti, your head will fall.",
+        "commentary": "",
+        "contextual_topics": [
+            "The Individual Self Identical with the Infinite Brahman",
+            "The Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "Ignorance of the deity associated with a sacred hymn invalidates the act of singing it",
+            "Performing a ritual chant without proper knowledge of the deity leads to harmful consequences for the practitioner",
+            "The verse asserts that epistemic qualification is a prerequisite for effective worship in Vedic practice",
+            "The threat of physical injury such as the head falling symbolizes the spiritual danger of unqualified recitation"
+        ],
+        "objection_hooks": [
+            "How can a physical injury be causally linked to mere lack of knowledge rather than being metaphorical",
+            "Does the verse imply that all forms of worship require scholarly understanding, contradicting the notion of devotion beyond intellect",
+            "Could the warning be a hyperbolic rhetorical device rather than a literal doctrinal claim, thus weakening its normative force"
+        ],
+        "sentiment": [
+            "trust",
+            "anticipation"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.78",
+        "spiritual_degree": "0.84",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "cause_effect",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.72",
+        "philosophical_depth": "0.77"
+    },
+    {
+        "verse_id": "1.10.11",
+        "sanskrit": "एवमेव प्रतिहर्तारमुवाच प्रतिहर्तर्या देवता प्रतिहारमन्वायत्ता तां चेदविद्वान्प्रतिहरिष्यसि मूर्धा ते विपतिष्यतीति ते ह समारतास्तूष्णीमासांचक्रिरे",
+        "transliteration": "evameva pratihartāramuvāca pratihartaryā devatā pratihāramanvāyattā tāṃ cedavidvānpratihariṣyasi mūrdhā te vipatiṣyatīti te ha samāratāstūṣṇīmāsāṃcakrire",
+        "translation": "He again said the same thing to the person singing the pratihāra: ‘O Pratihartā, if you sing the pratihāra without knowing anything about the deity relating to it, your head will fall.’ At this, they stopped their respective hymns and remained silent.",
+        "word_meaning": "Evam eva pratihartāram uvāca, he said the same thing to the person who was singing the pratihāra; pratihartaḥ, O Pratihartā; yā devatā pratihāram anvāyattā, that god to whom your pratihāra relates; tām avidvān, without knowing anything about him; cet pratihariṣyasi, if you sing the pratihāra; te mūrdhā vipatiṣyati iti, your head will fall; te, they [the singers]; ha samāratāḥ, stopped; āsāñcakrire tūṣṇīm, [and] remained silent.",
+        "commentary": "When Uṣasti spoke thus to the singers, they all stopped their hymns. They were afraid they would lose their heads because they did not know about the deities",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman"
+        ],
+        "claim_candidates": [
+            "Ignorance of the deity associated with a ritual hymn leads to harmful physical consequences",
+            "Proper knowledge of the deity is a prerequisite for performing the ritual correctly",
+            "The authority’s warning that ritual error can result in physical danger implies a moral order linking knowledge and safety",
+            "The singers’ immediate cessation of hymn indicates that fear of divine retribution can enforce adherence to ritual propriety"
+        ],
+        "objection_hooks": [
+            "How can mere ignorance of a deity physically cause one’s head to fall",
+            "Is the threat of the head falling intended as a literal outcome or a metaphorical warning",
+            "Does the verse imply that knowledge alone guarantees safety, ignoring other possible causes of harm",
+            "Could the warning be a rhetorical device rather than a doctrinal principle about ritual conduct"
+        ],
+        "sentiment": [
+            "fear"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.4",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "collective",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "symbolism",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.11.1",
+        "sanskrit": "अथ हैनं यजमान उवाच भगवन्तं वा अहं विविदिषाणीत्युषस्तिरस्मि चाक्रायण इति होवाच",
+        "transliteration": "atha hainaṃ yajamāna uvāca bhagavantaṃ vā ahaṃ vividiṣāṇītyuṣastirasmi cākrāyaṇa iti hovāca",
+        "translation": "Then the prince performing the sacrifice said, ‘Sir, I would like to know who you are.’ He [Uṣasti] replied, ‘I am Uṣasti, the son of Cakra ’.",
+        "word_meaning": "Atha, then; yajamānaḥ, the person performing the sacrifice [the prince]; ha enam uvāca, said to him [to Uṣasti]; bhagavantam vai aham vividiṣāṇi iti, Sir, I want to know who you are; iti ha uvāca, [Uṣasti] replied; uṣastiḥ cākrāyaṇaḥ asmi, I am Uṣasti, the son of Cakra.",
+        "commentary": "Uṣasti’s reply suggests that he assumes the prince already knows him by name.",
+        "contextual_topics": null,
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas"
+        ],
+        "claim_candidates": [
+            "The prince's request shows a desire for knowledge of the other's personal identity",
+            "Uṣasti's reply assumes the prince already knows him by name, indicating that name recognition is taken as sufficient for identity",
+            "The statement of lineage ('son of Cakra') is presented as the defining element of personal identity in the dialogue",
+            "The exchange implies that in a ritual context, knowing a person's name and parentage establishes their authority or relevance"
+        ],
+        "objection_hooks": [
+            "The assumption of prior familiarity may be presumptuous and not justified by the prince's earlier silence",
+            "A name and parentage do not necessarily reveal the true inner self or spiritual status of a person",
+            "Ritual authority might require more than genealogical information, such as demonstrated knowledge or virtue"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": null,
+        "philosophical_degree": "0.4",
+        "spiritual_degree": "0.2",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "restatement",
+        "argument_role": "premise",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.4",
+        "semantic_density": "0.5",
+        "philosophical_depth": "0.3"
+    },
+    {
+        "verse_id": "1.11.2",
+        "sanskrit": "स होवाच भगवन्तं वा अहमेभिः सर्वैरार्त्विज्यैः पर्यैषिषं भगवतो वा अहमवित्त्यान्यानवृषि",
+        "transliteration": "sa hovāca bhagavantaṃ vā ahamebhiḥ sarvairārtvijyaiḥ paryaiṣiṣaṃ bhagavato vā ahamavittyānyānavṛṣi",
+        "translation": "He [the prince] said: ‘I looked for you, revered sir, to give you all the work of the priests. As I could not find you, I entrusted the work to other [brāhmins]’.",
+        "word_meaning": "Saḥ ha uvāca, he [the prince] said; aham, I; bhagavantam, you, revered sir; vai ebhiḥ sarvaiḥ ārtvijyaiḥ, for all the work of the priests; paryaiṣiṣam, looked for; bhagavataḥ, you, sir; avittyā, not being able to locate; aham vai anyān avṛṣi, I chose others.",
+        "commentary": "The prince had obviously heard of Uṣasti’s reputation as a versatile scholar, and had wanted to give the responsibility of the sacrifice to him. As he could not find him, however, he had no option but to entrust the work to other brāhmins.",
+        "contextual_topics": [
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas",
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "When the most learned priest cannot be located, a ruler may legitimately assign sacrificial duties to other qualified Brahmins",
+            "The prince’s preference to give all priestly work to a single revered scholar indicates a hierarchical valuation of priestly expertise",
+            "Delegating ritual responsibilities does not negate the prince’s duty; it fulfills his obligation through alternative means",
+            "The verse suggests that the effectiveness of sacrifice is not solely dependent on a particular priest but can be maintained by competent substitutes"
+        ],
+        "objection_hooks": [
+            "Does assigning sacrificial duties to less eminent Brahmins risk diminishing the ritual’s potency",
+            "Might the prince’s reliance on a single scholar undermine the collective responsibility of the priestly class",
+            "Could the failure to locate the ideal priest be viewed as a neglect of duty rather than a justified reason for substitution",
+            "Is the hierarchy of priestly competence implied by the verse compatible with the principle that all Brahmins are equally capable of performing rites"
+        ],
+        "sentiment": [
+            "trust",
+            "anticipation"
+        ],
+        "core_concepts": [
+            "Karma"
+        ],
+        "philosophical_degree": "0.4",
+        "spiritual_degree": "0.3",
+        "speaker_role": "Kshatriya Teacher",
+        "addressee": "guru",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.4"
+    },
+    {
+        "verse_id": "1.11.3",
+        "sanskrit": "भगवांस्त्वेव मे सर्वैरार्त्विज्यैरिति तथेत्यथ तर्ह्येत एव समतिसृष्टाः स्तुवतां यावत्त्वेभ्यो धनं दद्यास्तावन्मम दद्या इति तथेति ह यजमान उवाच",
+        "transliteration": "bhagavāṃstveva me sarvairārtvijyairiti tathetyatha tarhyeta eva samatisṛṣṭāḥ stuvatāṃ yāvattvebhyo dhanaṃ dadyāstāvanmama dadyā iti tatheti ha yajamāna uvāca",
+        "translation": "[The prince said, ] ‘O Lord, please do for me all the work of the priest.’ [Uṣasti replied: ] ‘Let it be so. Now let the priests already engaged by you recite as I instruct. But you will have to pay me as much as you promised to pay these priests.’ ‘It will be so, ’ said [the prince].",
+        "word_meaning": "Bhagavān, O Lord; eva tu, for certain; sarvaiḥ ārtvijyaiḥ me iti, [take on] all the work of the ṛtvik for me; tathā iti, [Uṣasti said] let it be so; atha tarhi, now therefore; ete eva, these [priests already engaged by you]; samatisṛṣṭāḥ, as instructed [by me]; stuvatām, may recite; tu ebhyaḥ yāvat dhanam dadyāḥ, but as much money as you are giving these [priests]; tāvat, that much [money]; mama dadyāḥ iti, you have to give me [also]; yajamānaḥ, the performer of the sacrifice [the prince]; iti ha uvāca, said; tathā, it will be so.",
+        "commentary": "Uṣasti did not want the priests who had already been engaged to be dismissed. He only wanted them to follow his instructions about their recitations.",
+        "contextual_topics": [
+            "The Three Branches of Duty"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sacrifice and Asceticism Tapas"
+        ],
+        "claim_candidates": [
+            "The priest Uṣasti holds authority to determine which priests may recite, even against the yajamana's wishes",
+            "The fulfillment of promised remuneration to priests is a prerequisite for the proper execution of the sacrifice",
+            "The prince's invocation of Bhagavān serves to legitimize the request for priestly services, indicating that divine endorsement is sought for ritual arrangements",
+            "The continuity of already engaged priests, rather than their replacement, is emphasized as essential for maintaining ritual integrity"
+        ],
+        "objection_hooks": [
+            "If the yajamana is the ultimate sponsor of the sacrifice, how can the priest override his decision to replace priests",
+            "Does the requirement of payment guarantee ritual efficacy, or is it merely a social contract unrelated to spiritual outcome",
+            "Could the prince's invocation of Bhagavān be a conventional formula rather than a genuine appeal for divine sanction, thus weakening the claim of divine endorsement",
+            "Is the emphasis on retaining existing priests a practical concern about logistics rather than a doctrinal principle about ritual purity"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman",
+            "Yajna"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Kshatriya Teacher",
+        "addressee": "guru",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.11.4",
+        "sanskrit": "अथ हैनं प्रस्तोतोपससाद प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता तां चेदविद्वान्प्रस्तोष्यसि मूर्धा ते विपतिष्यतीति मा भगवानवोचत्कतमा सा देवतेति",
+        "transliteration": "atha hainaṃ prastotopasasāda prastotaryā devatā prastāvamanvāyattā tāṃ cedavidvānprastoṣyasi mūrdhā te vipatiṣyatīti mā bhagavānavocatkatamā sā devateti",
+        "translation": "Then the Prastotā came to [Uṣasti and said: ] ‘Revered sir, you told me, “O Prastotā, if you sing the prastāva without knowing anything about the deity to whom the hymn is addressed, your head will fall.” Please tell me who that deity is’.",
+        "word_meaning": "Atha, then; prastotā, the person reciting the prastāva; ha enani upasasāda, came to him [i.e., to Uṣasti, and said]; prastotaḥ yā devatā prastāvam anvāyattā, O Prastotā, that deity to whom the prastāva is related; tām avidvān, without knowing anything about him; cet prastoṣyasi, if you sing [about him]; te mūrdhā vipatiṣyati iti, your head will fall; bhagavān mā avocat, revered sir, you said to me; katamā sā devatā iti, what is that deity?",
+        "commentary": "",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman"
+        ],
+        "claim_candidates": [
+            "Reciting a hymn without knowing the deity to whom it is addressed results in harmful physical consequences.",
+            "Correct identification of the deity is a prerequisite for a valid Vedic recitation.",
+            "The seeker relies on the authority of the teacher to resolve uncertainty about the deity, indicating dependence on scriptural guidance.",
+            "Ignorance of the divine nature can cause both spiritual and material danger.",
+            "The performance of Vedic chants depends on epistemic certainty regarding the deity involved."
+        ],
+        "objection_hooks": [
+            "The statement about the head falling may be metaphorical rather than literal, questioning the claim of actual physical harm.",
+            "The necessity of knowing the deity before chanting could be challenged by the view that the power of the mantra lies in its sound, not in conceptual knowledge.",
+            "Relying on a teacher’s authority does not guarantee accurate identification of the deity, as teachers themselves may err."
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Shishya",
+        "addressee": "guru",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "question",
+        "discourse_relation": "cause_effect",
+        "argument_role": "premise",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "socratic",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.7"
+    },
+    {
+        "verse_id": "1.11.5",
+        "sanskrit": "प्राण इति होवाच सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते सैषा देवता प्रस्तावमन्वायत्ता तां चेदविद्वान्प्रास्तोष्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति",
+        "transliteration": "prāṇa iti hovāca sarvāṇi ha vā imāni bhūtāni prāṇamevābhisaṃviśanti prāṇamabhyujjihate saiṣā devatā prastāvamanvāyattā tāṃ cedavidvānprāstoṣyo mūrdhā te vyapatiṣyattathoktasya mayeti",
+        "translation": "Uṣasti said: ‘It is prāṇa [the vital force]. In prāṇa all things that we see around us [moving or unmoving], disappear [at the time of their destruction. And at the time of their appearance, ] they appear from prāṇa. Prāṇa is that deity to whom the prastāva is addressed. If you had sung the hymn not knowing the deity to whom it is addressed, in spite of being warned by me, your head would surely have fallen’.",
+        "word_meaning": "Prāṇa iti ha uvāca, [Uṣasti] said, it is prāṇa [the vital force]; ha vai, for; imāni sarvāṇi bhūtāni, all these beings [moving or unmoving]; prāṇam eva, in prāṇa; abhi, totally; saṃviśanti, disappear [at the time of destruction]; prāṇam abhi ujjihate, [and] out of prāṇa they appear [when they come into existence]; sā eṣā devatā, that [prāṇa] is the deity; prastāvam anvāyattā, the prastāva is addressed to; cet, if; tām, that [deity]; avidvān, from ignorance; prastoṣyaḥ, you had praised; [then] tathā, like that; mayā uktasya, in spite of being warned by me; te mūrdhā vyapatiṣyat iti, your head would surely have fallen.",
+        "commentary": "The prastotā had immediately stopped singing and then had approached Uṣasti in a humble manner. This pleased Uṣasti, and he gladly proceeded to teach the brāhmin.",
+        "contextual_topics": [
+            "Being as the Source of All",
+            "The Unitary World-Self, The Immanent Reality of All Things and Man"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Sole Reality of Brahman",
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "Prāṇa is the ultimate cause from which all beings originate and into which they dissolve",
+            "Prāṇa itself is identified as a deity to whom hymns must be correctly addressed",
+            "Ignorance of the proper deity when chanting leads to spiritual peril, exemplified by the warning of the head falling",
+            "Correct knowledge of the deity (prāṇa) is essential for safe participation in ritual worship"
+        ],
+        "objection_hooks": [
+            "The identification of prāṇa with a deity may be metaphorical rather than ontological, challenging the claim that prāṇa is the ultimate cause",
+            "The warning about the head falling could be hyperbolic, not indicating actual metaphysical danger, thus questioning the claim of spiritual peril",
+            "Equating prāṇa with Brahman may overlook Upanishadic passages that distinguish prāṇa as a function of Brahman, making the claim of sole reality overly broad"
+        ],
+        "sentiment": [
+            "trust",
+            "fear"
+        ],
+        "core_concepts": [
+            "Prana",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.7",
+        "spiritual_degree": "0.6",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.8",
+        "philosophical_depth": "0.75"
+    },
+    {
+        "verse_id": "1.11.6",
+        "sanskrit": "अथ हैनमुद्गातोपससादोद्गातर्या देवतोद्गीथमन्वायत्ता तां चेदविद्वानुद्गास्यसि मूर्धा ते विपतिष्यतीति मा भगवानवोचत्कतमा सा देवतेति",
+        "transliteration": "atha hainamudgātopasasādodgātaryā devatodgīthamanvāyattā tāṃ cedavidvānudgāsyasi mūrdhā te vipatiṣyatīti mā bhagavānavocatkatamā sā devateti",
+        "translation": "Then the udgātā came to [Uṣasti and said: ] ‘Revered sir, you told me, “O Udgātā, if you sing the udgītha without knowing anything about the deity to whom the hymn is addressed, your head will fall.” Please tell me who that deity is’.",
+        "word_meaning": "Atha, then; udgātā, the person reciting the udgītha; ha enam upasasāda, came to him [i.e., to Uṣasti, and said]; bhagavān mā avocat, revered sir, you said to me; udgātaḥ yā devatā udgītham anvāyattā, O Udgātā, that deity to whom the udgītha is related; tām avidvān, without knowing anything about him; cet udgāsyasi, if you sing [about him]; te mūrdhā vipatiṣyati iti, your head will fall; katamā sā devatā iti, what is that deity?",
+        "commentary": "",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman"
+        ],
+        "claim_candidates": [
+            "Ignorance of the specific deity associated with a hymn is said to cause physical injury, indicating a direct causal relationship between ritual knowledge and bodily harm",
+            "The verse mandates that one must acquire knowledge of the deity before performing the udgītha, implying that correct worship is contingent upon prior theological understanding",
+            "The speaker invokes the authority of a previous warning, suggesting that scriptural injunctions are considered reliable sources for determining ritual propriety",
+            "The request for the deity’s identity demonstrates that even learned reciters seek clarification, reflecting an epistemic humility embedded in the tradition"
+        ],
+        "objection_hooks": [
+            "The described physical consequence may be metaphorical, thus the claim of a literal causal link could be overstated",
+            "The requirement of deity knowledge might reflect later ritual codification rather than an original Vedic principle, challenging its universality",
+            "Reliance on scriptural authority does not guarantee factual correctness about the deity, questioning the epistemic certainty of the warning"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.85",
+        "spiritual_degree": "0.9",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "question",
+        "discourse_relation": "explanation",
+        "argument_role": "premise",
+        "inference_type": "deductive",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.6",
+        "semantic_density": "0.85",
+        "philosophical_depth": "0.9"
+    },
+    {
+        "verse_id": "1.11.7",
+        "sanskrit": "आदित्य इति होवाच सर्वाणि ह वा इमानि भूतान्यादित्यमुच्चैः सन्तं गायन्ति सैषा देवतोद्गीथमन्वायत्ता तां चेदविद्वानुदगास्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति",
+        "transliteration": "āditya iti hovāca sarvāṇi ha vā imāni bhūtānyādityamuccaiḥ santaṃ gāyanti saiṣā devatodgīthamanvāyattā tāṃ cedavidvānudagāsyo mūrdhā te vyapatiṣyattathoktasya mayeti",
+        "translation": "Uṣasti said: ‘It is āditya [the sun], for all these beings pay homage to the sun, which is high above. Āditya is that deity to whom the udgītha is addressed. If you had sung the udgītha not knowing the deity to whom it is addressed, your head would surely have fallen, as I had told you’.",
+        "word_meaning": "Ādityaḥ iti ha uvāca, [Uṣasti] said, it is āditya [the sun]; ha vai for; imāni sarvāṇi bhūtāni, all these beings [moving and unmoving]; uccaiḥ santam ādityam gāyanti, sing in praise of āditya, who is high above; sā eṣā devatā, that [āditya] is the deity; udgītham anvāyattā, the udgītha is addressed to; cet, if; tām, that [deity]; avidvān, from ignorance; ’ udgāsyaḥ you had sung the udgītha; [then] tathā, like that; mayā uktasya, in spite of being warned by me; te mūrdhā vyapatiṣyat iti, your head would surely have fallen.",
+        "commentary": "Earlier, prāṇa was described as the deity of the prastāva . The word prāṇa begins with pra, and prastāva also begins with pra . It is surmised that this is why prāṇa is the deity of the prastāva. By the same token, the udgītha is addressed to āditya, the sun, for āditya is urdhatva, which is ut (high), and udgītha is also ut . Therefore it is reasonable that the deity of the udgītha should be āditya.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman",
+            "Knowledge of Brahman"
+        ],
+        "claim_candidates": [
+            "The sun (Āditya) functions as the appropriate deity for the udgītha because it embodies the quality of height (urdhatva).",
+            "Ignorance of the correct deity when performing a hymn can lead to harmful consequences, illustrating the importance of proper knowledge in ritual practice.",
+            "The identification of deities with natural phenomena (e.g., sun) reflects a symbolic representation of Brahman in Vedic practice.",
+            "Uṣasti’s warning that a head would fall demonstrates that Vedic teachers enforce doctrinal correctness through threat of physical harm.",
+            "Misalignment between a hymn’s addressed deity and its content invalidates the hymn’s efficacy."
+        ],
+        "objection_hooks": [
+            "The phrase ‘head would fall’ may be metaphorical rather than literal, challenging the claim that ignorance causes physical harm.",
+            "The sun’s association with height does not necessarily make it the exclusive deity for all hymns that address ‘ut’, questioning the exclusivity of the identification.",
+            "Interpreting natural phenomena as symbols of Brahman may impose later philosophical layers not present in the original Vedic context.",
+            "The threat of physical harm could be a rhetorical device rather than an actual pedagogical method, undermining the claim about teaching through fear."
+        ],
+        "sentiment": [
+            "fear"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.4",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "analogical",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.5",
+        "semantic_density": "0.7",
+        "philosophical_depth": "0.6"
+    },
+    {
+        "verse_id": "1.11.8",
+        "sanskrit": "अथ हैनं प्रतिहर्तोपससाद प्रतिहर्तर्या देवता प्रतिहारमन्वायत्ता तां चेदविद्वान्प्रतिहरिष्यसि मूर्धा ते विपतिष्यतीति मा भगवानवोचत्कतमा सा देवतेति",
+        "transliteration": "atha hainaṃ pratihartopasasāda pratihartaryā devatā pratihāramanvāyattā tāṃ cedavidvānpratihariṣyasi mūrdhā te vipatiṣyatīti mā bhagavānavocatkatamā sā devateti",
+        "translation": "Next, the pratihartā came to [Uṣasti and said: ] ‘Revered sir, you told me, “O Pratihartā, if you sing the pratihāra without knowing anything about the deity to whom the hymn is addressed, your head will fall.” Please tell me who that deity is’.",
+        "word_meaning": "Atha, next; pratihartā, the person reciting the pratihāra; ha enam upasasāda, came to him [i.e., to Uṣasti, and said]; bhagavān mā avocat, revered sir, you said to me; pratihartaḥ yā devatā pratihāram anvāyattā, O Pratihartā, that deity to whom the pratihāra is related; tām avidvān, without knowing anything about him; cet pratihariṣyasi, if you sing the pratihāra; te mūrdhā vipatiṣyati iti, your head will fall; katamā sā devatā iti, what is that deity?",
+        "commentary": "",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Knowledge of Brahman"
+        ],
+        "claim_candidates": [
+            "Reciting a hymn without knowing the deity to whom it is addressed can cause the reciter’s head to fall.",
+            "Proper knowledge of the deity is a prerequisite for safely performing the pratihāra hymn.",
+            "The speaker invokes the authority of the guru’s earlier warning to justify the request for clarification.",
+            "Ignorance of the divine identity in ritual practice is presented as a source of material danger."
+        ],
+        "objection_hooks": [
+            "The warning that the head will fall may be metaphorical rather than a literal physical consequence.",
+            "The requirement to know the specific deity might reflect cultural ritual norms, not an absolute spiritual principle.",
+            "Relying on the guru’s prior statement could be an appeal to authority rather than independent logical proof.",
+            "The causal link between ignorance and physical harm lacks empirical verification."
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman",
+            "Karma"
+        ],
+        "philosophical_degree": "0.8",
+        "spiritual_degree": "0.6",
+        "speaker_role": "Shishya",
+        "addressee": "guru",
+        "address_scope": "individual",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "question",
+        "discourse_relation": "clarification",
+        "argument_role": "premise",
+        "inference_type": "deductive",
+        "figure_type": "enigma",
+        "pramana": "shruti",
+        "pedagogical_mode": "socratic",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.7"
+    },
+    {
+        "verse_id": "1.11.9",
+        "sanskrit": "अन्नमिति होवाच सर्वाणि ह वा इमानि भूतन्यन्नमेव प्रतिहरमाणानि जीवन्ति सैषा देवता प्रतिहारमन्वायत्ता तां चेदविद्वान्प्रत्यहरिष्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति तथोक्तस्य मयेति",
+        "transliteration": "annamiti hovāca sarvāṇi ha vā imāni bhūtanyannameva pratiharamāṇāni jīvanti saiṣā devatā pratihāramanvāyattā tāṃ cedavidvānpratyahariṣyo mūrdhā te vyapatiṣyattathoktasya mayeti tathoktasya mayeti",
+        "translation": "Uṣasti said: ‘It is anna [food], for all these beings support themselves by eating food. Anna is that deity to whom the pratihāra is addressed. If you had sung the pratihāra not knowing the deity to whom it is addressed, your head would surely have fallen, as I had told you’.",
+        "word_meaning": "Annam iti ha uvāca, [Uṣasti] said, it is anna [food]; ha vai, for; imāni sarvāṇi bhūtāni, all these beings; annam eva pratiharamāṇāni jīvanti, support themselves by collecting food; sā eṣā devatā, that [food] is the deity; pratihāram anvāyattā, the pratihāra is addressed to; cet, if; tām, that [deity]; avidvān, from ignorance; pratyahariṣyaḥ, you had sung the pratihāra; [then] tathā, like that; mayā uktasya, in spite of being warned by me; te mūrdhā vyapatiṣyat iti, your head would surely have fallen [the repetition is for the sake of emphasis].",
+        "commentary": "Every living being has to support itself by collecting food. It involves much effort, but each one has to make that effort. Prati means ‘each and every.’ The deity is pratihāra because each and every being has to ‘collect’ ( āharam ) food for himself. In short, you worship prāṇa (the vital force) through the prastāva, āditya (the sun) through the udgītha, and anna (food) through the pratihāra. What is the result of this? The result is progress in every way.",
+        "contextual_topics": [
+            "The Unitary World-Self, The Immanent Reality of All Things and Man"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman"
+        ],
+        "claim_candidates": [
+            "Food (anna) is presented as a deity to whom the ritual of pratihāra must be addressed",
+            "Ignorance of the appropriate deity in performing a rite is said to cause physical harm, exemplified by the loss of one's head",
+            "The commentary asserts that worship of essential forces such as prāṇa, the sun, and food through their respective rites leads to progress in every way",
+            "The verse states that all beings sustain themselves by acquiring food, indicating a universal dependence on anna"
+        ],
+        "objection_hooks": [
+            "The identification of food as a deity may be metaphorical rather than literal, questioning whether the verse intends an actual divine status for anna",
+            "The claim that lack of knowledge about the deity causes one's head to fall could be hyperbolic, raising doubt about a literal causal relationship",
+            "The assertion that worship of prāṇa, the sun, and food guarantees universal progress lacks empirical support, inviting skepticism about its universal applicability"
+        ],
+        "sentiment": [
+            "trust",
+            "fear"
+        ],
+        "core_concepts": [
+            "Jiva",
+            "Prana"
+        ],
+        "philosophical_degree": "0.75",
+        "spiritual_degree": "0.85",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.8",
+        "philosophical_depth": "0.75"
+    },
+    {
+        "verse_id": "1.12.1",
+        "sanskrit": "अथातः शौव उद्गीथस्तद्ध बको दाल्भ्यो ग्लावो वा मैत्रेयः स्वाध्यायमुद्वव्राज",
+        "transliteration": "athātaḥ śauva udgīthastaddha bako dālbhyo glāvo vā maitreyaḥ svādhyāyamudvavrāja",
+        "translation": "Now, an udgītha [to food] sung by dogs. The story is: Baka Dālbhya, who was also known as Glāva Maitreya, went one day to a quiet place to study the scriptures [the udgītha].",
+        "word_meaning": "Atha ataḥ, since then; tat ha, in this connection; śauvaḥ udgīthaḥ, an udgītha [to food] sung by dogs [i.e., sages in the form of dogs]; bakaḥ dālbhyaḥ, Baka, the son of Dalbha; glāvaḥ maitreyaḥ vā, or Glāva, the son of Mitrā; svādhyāyam udvavrāja, went to a quiet place to study the scriptures [i.e., the udgītha].",
+        "commentary": "Sometimes people are driven by hunger to eat ‘unclean’ food. The story of Uṣasti is an example. Here, in this section, a story is told of how some dogs avoid such a situation: There was a sage who was known as Baka on his father’s side and Glāva on his mother’s side. Wanting to learn an udgītha that would bring him food, he went to a quiet place to study the scriptures.",
+        "contextual_topics": [
+            "Man’s Destiny Determined by His Conduct"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Knowledge of Brahman",
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "The pursuit of scriptural study (udgitha) is presented as a legitimate means to secure material sustenance, implying that spiritual knowledge can fulfill basic needs.",
+            "The commentary links avoidance of unclean food to disciplined study, suggesting that ethical purity is achieved through internal cultivation rather than external dietary rules.",
+            "The dual naming of the sage (Baka son of Dalbha, Glava son of Mitra) indicates that personal identity is secondary to the quest for knowledge, supporting the view that self is not confined by lineage.",
+            "The depiction of sages in the form of dogs implies that the capacity for spiritual aspiration transcends social status and external form."
+        ],
+        "objection_hooks": [
+            "How can scriptural study guarantee material food without empirical evidence of such a causal relationship?",
+            "Equating ethical purity solely with study may overlook the importance of actual dietary practices in maintaining purity.",
+            "The interpretation of dual naming as a philosophical statement about identity may be an overextension beyond the text’s literal information.",
+            "The claim that dogs can be sages might be metaphorical, not a universal assertion about all lowly forms possessing equal spiritual capacity."
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.7",
+        "spiritual_degree": "0.6",
+        "speaker_role": "Narrator",
+        "addressee": "shishya",
+        "address_scope": "universal",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "example",
+        "argument_role": "example",
+        "inference_type": "experiential",
+        "figure_type": "metaphor",
+        "pramana": "shruti",
+        "pedagogical_mode": "narrative",
+        "linguistic_complexity": "0.6",
+        "semantic_density": "0.85",
+        "philosophical_depth": "0.9"
+    },
+    {
+        "verse_id": "1.12.2",
+        "sanskrit": "तस्मै श्वा श्वेतः प्रादुर्बभूव तमन्ये श्वान उपसमेत्योचुरन्नं नो भगवानागायत्वशनायामवा इति",
+        "transliteration": "tasmai śvā śvetaḥ prādurbabhūva tamanye śvāna upasametyocurannaṃ no bhagavānāgāyatvaśanāyāmavā iti",
+        "translation": "A white dog appeared before him, as if he wanted to do the sage a favour. Then several other smaller dogs came to the white dog and said: ‘O Lord, please sing for us. We are hungry and we want some food’.",
+        "word_meaning": "Tasmai, [as a favour] to him; śvā, a dog; śvetāḥ, white; prādurbabhūva, appeared; tam, to him [i.e., to the white dog]; anye śvānaḥ, other dogs; upasametya, came; ūcuḥ, [and] said; annam, food; naḥ, for us; bhagavān, O Lord; āgāyatu, please sing; aśanāyāma vai iti, we are hungry [and want to eat].",
+        "commentary": "It would seem that some god or sage was pleased with Baka ’s Vedic studies and as a favour, appeared before him as a white dog. Then, as if by coincidence, some other smaller dogs approached the white dog and told him they were very hungry and needed food. They asked the white dog to sing the appropriate Sāma so that they could get some food immediately. Very likely, these small dogs were also sages in disguise. Another explanation is also possible: The white dog represents prāṇa, and the smaller dogs are the sense organs controlled by prāṇa. Prāṇa is pleased when someone studies the scriptures. And if prāṇa is pleased, the sense organs are able to perceive their respective sense objects well. Like dogs, the sense organs are ‘hungry’ and enjoy perceiving. In order to express their appreciation of the scholar’s efforts, they appear before him as dogs.",
+        "contextual_topics": [
+            "Brahman as Life, Joy, and the Void"
+        ],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman",
+            "Subtle Body and Ethical Qualification"
+        ],
+        "claim_candidates": [
+            "The appearance of a white dog as a favor indicates that divine presence manifests in forms pleasing to the devotee",
+            "The smaller dogs represent the sense organs that become active when prana is pleased by scriptural study",
+            "The request for song by the sense organs suggests that sensory perception requires appropriate spiritual vibration to obtain nourishment",
+            "The metaphor of dogs as hungry illustrates that the senses are inherently desirous of objects and need guidance to attain satisfaction",
+            "The white dog's role as prana implies that the life force mediates between the scholar and sensory experience"
+        ],
+        "objection_hooks": [
+            "The identification of the white dog with prana may be metaphorical but lacks explicit textual evidence; the verse only mentions a dog, not prana",
+            "Assuming the smaller dogs are sense organs imposes a specific allegorical reading that may not be intended; the commentary admits an alternative explanation that they are sages in disguise",
+            "The claim that singing (Sama) is required for sensory nourishment presumes a causal link not evident in the verse; the dogs merely request food, not necessarily through song",
+            "Interpreting the dogs' hunger as representing sense desire could conflate physiological hunger with metaphysical craving, leading to a category error"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Atman",
+            "Brahman"
+        ],
+        "philosophical_degree": "0.75",
+        "spiritual_degree": "0.85",
+        "speaker_role": "Guru",
+        "addressee": "shishya",
+        "address_scope": "individual",
+        "ontological_register": "adhyatmika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "analogical",
+        "figure_type": "metaphor",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.75",
+        "philosophical_depth": "0.85"
+    },
+    {
+        "verse_id": "1.12.3",
+        "sanskrit": "तान्होवाचेहैव मा प्रातरुपसमीयातेति तद्ध बको दाल्भ्यो ग्लावो वा मैत्रेयः प्रतिपालयांचकार",
+        "transliteration": "tānhovācehaiva mā prātarupasamīyāteti taddha bako dālbhyo glāvo vā maitreyaḥ pratipālayāṃcakāra",
+        "translation": "[The white dog] replied, ‘All of you meet me here tomorrow morning.’ Baka Dālbhya, who was also known as Glāva Maitreya, waited there too [for the white dog].",
+        "word_meaning": "Tān, to them [the other dogs]; ha uvāca, [the white dog] said; iha eva, here; prātaḥ, tomorrow morning; mā upasamīyāta iti, all of you come to me; bakaḥ dālbhyaḥ glāvaḥ maitreyaḥ vā, Baka, the son of Dalbha, who was also known as Glāva, the son of Mitrā; pratipālayāñcakāra, waited [for the white dog]; tat ha, there.",
+        "commentary": "The smaller dogs were obviously very hungry, so why didn’t the white dog sing immediately? He asked them to come back in the morning because the morning is the best time to sing the udgītha . In the afternoon the sun turns away from us. He is the one who gives us food, and if he has already begun to turn away, it is too late to ask him to give us anything. Morning is the time when we are face to face with him, and that is why morning is the best time to make a request of him. The sage Baka came early the next morning also and waited for the white dog.",
+        "contextual_topics": [
+            "The Universal Self",
+            "Progressive Worship of Brahman up to the Universal Self"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman",
+            "Sole Reality of Brahman"
+        ],
+        "claim_candidates": [
+            "The white dog’s instruction to meet in the morning implies that the morning is the optimal time for making requests to the sun, who is the source of sustenance",
+            "The commentary suggests that the sun’s turning away in the afternoon makes petitions ineffective, indicating a temporal limitation on divine responsiveness",
+            "Baka’s early arrival and waiting demonstrates the virtue of punctuality and devotion in seeking divine favor",
+            "The dialogue illustrates that ritual timing (morning) is essential for successful worship, implying that proper alignment with cosmic cycles is required for spiritual efficacy",
+            "The white dog’s authority to schedule the meeting reflects a hierarchical relationship where the divine dictates the terms of worship"
+        ],
+        "objection_hooks": [
+            "The claim that morning is the optimal time for petitions assumes the sun’s willingness is time‑dependent, but the sun’s constancy may render timing irrelevant",
+            "The assertion that the sun turns away in the afternoon could be metaphorical rather than literal, questioning the premise that divine responsiveness is limited temporally",
+            "Baka’s punctuality may be a narrative detail rather than a doctrinal endorsement of punctuality as virtue, so deriving moral instruction may overextend the text",
+            "The idea that ritual timing is essential for spiritual efficacy may conflict with other Upanishadic teachings that emphasize inner intention over external timing"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.75",
+        "spiritual_degree": "0.85",
+        "speaker_role": "Narrator",
+        "addressee": "peer",
+        "address_scope": "collective",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "instruction",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "metaphor",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.55",
+        "semantic_density": "0.70",
+        "philosophical_depth": "0.75"
+    },
+    {
+        "verse_id": "1.12.4",
+        "sanskrit": "ते ह यथैवेदं बहिष्पवमानेन स्तोष्यमाणाः संरब्धाः सर्पन्तीत्येवमाससृपुस्ते ह समुपविश्य हिं चक्रुः",
+        "transliteration": "te ha yathaivedaṃ bahiṣpavamānena stoṣyamāṇāḥ saṃrabdhāḥ sarpantītyevamāsasṛpuste ha samupaviśya hiṃ cakruḥ",
+        "translation": "Just as those who recite the hymn called bahiṣpavamāna move forward while touching each other, so the dogs also did the same. Then, sitting down, they said him .",
+        "word_meaning": "Te ha, they; yathā era, just as; idam, this; bahiṣpavamānena, by the hymn called bahiṣpavamāna; stoṣyamāṇaḥ, while reciting; saṃrabdhāḥ, touching each other; sarpanti, proceed; iti evam āsasṛpuḥ, went about this way; te ha, they; samupaviśya, sitting down; him, the word ‘him’; cakruḥ, uttered.",
+        "commentary": "When sages sing the hymn baḥiṣpavamāna, they join their hands together, or otherwise touch each other, and then they move forward. The dogs did likewise. Each took the tail of the one in front in its mouth and started moving. Finally they sat down and uttered the sound him .",
+        "contextual_topics": [],
+        "philosophical_domain": "psychology",
+        "sub_concepts": [
+            "Substitutes for Ritual Practices"
+        ],
+        "claim_candidates": [
+            "The physical act of touching while reciting a hymn creates a coordinated movement that can be replicated by beings lacking conceptual awareness",
+            "Ritual gestures possess an intrinsic efficacy independent of the practitioner’s understanding, as demonstrated by the dogs’ imitation",
+            "The utterance “him” after the dogs sit suggests that the referent of the hymn transcends human cognition and is accessible to all sentient forms",
+            "The analogy of dogs following sages implies that external forms of worship can propagate without internal realization, raising questions about the role of intention in spiritual practice"
+        ],
+        "objection_hooks": [
+            "How can a mere physical imitation be taken as evidence of intrinsic ritual efficacy rather than coincidental behavior",
+            "Does the dogs’ utterance “him” truly indicate a universal referent, or is it merely a narrative device without metaphysical import",
+            "If ritual effectiveness is independent of understanding, does this undermine the importance of inner contemplation emphasized elsewhere in the Upanishads"
+        ],
+        "sentiment": [
+            "trust"
+        ],
+        "core_concepts": [],
+        "philosophical_degree": 0.6,
+        "spiritual_degree": 0.4,
+        "speaker_role": "Narrator",
+        "addressee": "audience",
+        "address_scope": "collective",
+        "ontological_register": "adhibhautika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "example",
+        "inference_type": "analogical",
+        "figure_type": "analogy",
+        "pramana": "shruti",
+        "pedagogical_mode": "narrative",
+        "linguistic_complexity": 0.6,
+        "semantic_density": 0.85,
+        "philosophical_depth": 0.7
+    },
+    {
+        "verse_id": "1.12.5",
+        "sanskrit": "ओ३मदा३मों३पिबा३मों३ देवो वरुणः प्रजपतिः सविता२न्नमिहा२हरदन्नपते३ऽन्नमिहा २हरा२हरो३मिति",
+        "transliteration": "o3madā3moṃ3pibā3moṃ3 devo varuṇaḥ prajapatiḥ savitā2nnamihā2haradannapate3'nnamihā 2harā2haro3miti",
+        "translation": "‘Om, we will eat. Om, we will drink. Om, Deva [the sun], Varuṇa, Prajāpati, Savitā, bring us food here. O Lord of food [the sun], bring us food here. Bring us food here. Om’.",
+        "word_meaning": "Om adāma, Om, we will eat; om pibāma, Om, we will drink; om devaḥ varuṇaḥ prajāpatiḥ savitā, Om Deva [the shining one], Varuṇa, Prajāpati, Savitā; annam iha āharat, bring food here; annapate annam iha āhara āhara om, O Lord of food, bring food here, bring [food here], Om.",
+        "commentary": "This verse is also known as the hiṃkāra . The sun is the only thing that shines, so he is called here deva (that which shines). Varuṇa is the deity who gives rain, and Prajāpati protects all beings. Because Āditya, the sun, gives birth to all, he is known as Savitā. It is, in fact, Āditya who at one point gives us light, and at another gives us rain. It is because of him that there is food. This is why we ask him to bring us food ( anna ). As a mark of special respect, and also urgency, the request is repeated.",
+        "contextual_topics": [
+            "The Sacred Syllable Om"
+        ],
+        "philosophical_domain": "theology",
+        "sub_concepts": [
+            "Symbolical Representations of Brahman",
+            "Brahman as Cosmological and Physical Principle"
+        ],
+        "claim_candidates": [
+            "The invocation of Om before requesting sustenance signifies that Om functions as a sacred utterance that activates divine provision",
+            "The sun (Deva/Savitā) is identified as the source of both light and rain, thereby being the ultimate cause of food production",
+            "Repeating the request to the deity reflects a ritual emphasis on urgency and respect, suggesting that repetition enhances divine response",
+            "The verse equates multiple deities (Varuṇa, Prajāpati, Savitā) under the singular invocation of Om, implying a non‑dual view where various divine functions are expressions of one ultimate reality",
+            "The use of Om before both eating and drinking indicates that ordinary acts of consumption are sanctified through the sacred syllable, integrating ritual into daily life"
+        ],
+        "objection_hooks": [
+            "One might argue that Om is merely a phonetic filler and does not necessarily activate divine provision; its efficacy could be cultural rather than metaphysical",
+            "Identifying the sun as the direct source of rain may conflict with empirical understanding of atmospheric processes, questioning the literal claim",
+            "Listing distinct deities alongside Om could reflect polytheistic practice rather than a monistic identification, challenging the non‑dual interpretation",
+            "The claim that repetition enhances divine response may be a poetic observation rather than a functional ritual mechanism, lacking explicit textual support"
+        ],
+        "sentiment": [
+            "trust",
+            "anticipation"
+        ],
+        "core_concepts": [
+            "Brahman"
+        ],
+        "philosophical_degree": "0.6",
+        "spiritual_degree": "0.5",
+        "speaker_role": "Guru",
+        "addressee": "cosmic_being",
+        "address_scope": "collective",
+        "ontological_register": "adhidaivika",
+        "dialogue_act": "assertion",
+        "discourse_relation": "explanation",
+        "argument_role": "thesis",
+        "inference_type": "experiential",
+        "figure_type": "identity_statement",
+        "pramana": "shruti",
+        "pedagogical_mode": "direct_assertion",
+        "linguistic_complexity": "0.7",
+        "semantic_density": "0.8",
+        "philosophical_depth": "0.75"
     }
 ]
